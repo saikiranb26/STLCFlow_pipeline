@@ -8,6 +8,9 @@ Use a prompt like this after a break:
 
 `Resume STLCFlow from C:\Users\bsaikiran\STLCFlow. Read README.md, requirements.md, references.md, decisions.md, and next-steps.md, then continue from the pending step.`
 
+# Skill files are zipped with name : stlcflow-end-to-end-qa-automation(for STLC flow)
+; cadency-playwright-testcase-workflow(only for automating) ;cadency-ado-testcase-workflow(only for manual testcase writing & generating)
+
 ## Current purpose
 
 Build a workflow that:
