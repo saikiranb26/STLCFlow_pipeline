@@ -1,0 +1,90 @@
+{
+  "workItemId": 201455,
+  "suiteId": 204879,
+  "testPlanId": 191930,
+  "project": "Cadency",
+  "workbookPath": "C:\\Users\\bsaikiran\\STLCFlow Copy\\STLCFlow\\artifacts\\generated-excel\\TRUIST-Retain Pagination State When Returning to Legacy Reports List.xlsx",
+  "generatedAt": "2026-06-18T15:11:41.022Z",
+  "scenario": {
+    "caseOrdinal": 2,
+    "key": "207436-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+    "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number is retained after Move action",
+    "testCaseId": 207436,
+    "tags": [
+      "@ui",
+      "@generated",
+      "@story-201455",
+      "@suite-204879",
+      "@plan-191930",
+      "@tc-207436"
+    ],
+    "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+    "scenarioTitle": "207436: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number is retained after Move action",
+    "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+    "lookupTokens": [
+      "tc:207436",
+      "207436",
+      "story:201455",
+      "suite:204879",
+      "plan:191930",
+      "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number is retained after Move action"
+    ],
+    "navigationPath": "Reports > Legacy Reports",
+    "manualSteps": [
+      {
+        "action": "Login to Match.",
+        "expected": "User is logged in successfully."
+      },
+      {
+        "action": "Click on Reports and select Legacy Reports.",
+        "expected": "Legacy Reports list view opens and the available reports are displayed."
+      },
+      {
+        "action": "Ensure the Legacy Reports list contains enough records to navigate beyond page 1.",
+        "expected": "More than one page of results is available in the list."
+      },
+      {
+        "action": "Navigate to page 2 in Legacy Reports list.",
+        "expected": "Page 2 is displayed in the Legacy Reports list."
+      },
+      {
+        "action": "Click Actions for any report and select Move.",
+        "expected": "Move screen or popup loads successfully."
+      },
+      {
+        "action": "Select System folder and click Save.",
+        "expected": "Selected report is moved successfully and Legacy Reports list returns."
+      },
+      {
+        "action": "Verify the Legacy Reports list remains on page 2 after the Move action.",
+        "expected": "Legacy Reports list remains on page 2 after completing the Move action."
+      }
+    ],
+    "executionSteps": [
+      {
+        "kind": "login"
+      },
+      {
+        "kind": "gotoLegacyReports"
+      },
+      {
+        "kind": "legacyReportsEnsurePaginationAvailable"
+      },
+      {
+        "kind": "legacyReportsGoToPage",
+        "value": "2"
+      },
+      {
+        "kind": "legacyReportsSelectAction",
+        "value": "Move"
+      },
+      {
+        "kind": "legacyReportsCompleteFolderAction",
+        "value": "System"
+      },
+      {
+        "kind": "legacyReportsAssertRetainedState"
+      }
+    ]
+  }
+}

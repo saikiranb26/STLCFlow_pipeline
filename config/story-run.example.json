@@ -1,0 +1,31 @@
+{
+  "workItemId": 0,
+  "suiteId": 0,
+  "testPlanId": 0,
+  "project": "Cadency",
+  "referencePlanIds": [6357, 191930],
+  "referenceSuiteIds": [70798, 149176],
+  "referenceRoots": [
+    {
+      "planId": 6357,
+      "suiteId": 70798,
+      "label": "Master Regression > Match Angular",
+      "recursive": true
+    },
+    {
+      "planId": 6357,
+      "suiteId": 149176,
+      "label": "Master Regression > TDL",
+      "recursive": true
+    },
+    {
+      "planId": 191930,
+      "label": "Latest Release Match Plan",
+      "recursive": true
+    }
+  ],
+  "templatePath": "C:\\Users\\bsaikiran\\STLCFlow\\knowledge\\Referenced Template VSTS.xlsx",
+  "reviewApproved": false,
+  "approvedWorkbookPath": "",
+  "outputRoot": "artifacts/stories"
+}

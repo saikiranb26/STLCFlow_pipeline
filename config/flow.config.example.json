@@ -1,0 +1,26 @@
+{
+  "projectName": "STLCFlow",
+  "defaultProject": "Cadency",
+  "tooling": {
+    "adoMcpRequired": true,
+    "playwrightMcpRequired": true,
+    "chromeDevToolsMcpMode": "secondary-only"
+  },
+  "gates": {
+    "requireWorkbookReviewBeforeUpload": true,
+    "requireApprovedWorkbookForAutomation": true,
+    "allowAssumptionBasedPassResults": false
+  },
+  "stageOrder": [
+    "loadReferences",
+    "analyzeStory",
+    "collectEvidence",
+    "generateWorkbook",
+    "reviewGate",
+    "uploadToAdo",
+    "generateAutomation",
+    "executeTests",
+    "publishReport"
+  ]
+}
+

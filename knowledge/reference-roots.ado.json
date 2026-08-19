@@ -1,0 +1,160 @@
+{
+  "generatedDate": "2026-05-24",
+  "sourceOfTruth": "Azure DevOps MCP",
+  "project": "Cadency",
+  "recursiveRootRule": "Any user-provided plan or suite is treated as a recursive root. Parent, child, and leaf suites must all be considered during knowledge extraction.",
+  "roots": [
+    {
+      "planId": 6357,
+      "suiteId": 70798,
+      "label": "Match Angular",
+      "recursive": true,
+      "domain": "Match",
+      "manualReferenceRoot": 164203,
+      "automationReferenceRoot": 122298,
+      "smokeReferenceRoot": 171004,
+      "notableChildren": [
+        {
+          "suiteId": 122298,
+          "name": "Match Angular Automation",
+          "role": "module taxonomy and automation-oriented behavior patterns"
+        },
+        {
+          "suiteId": 164203,
+          "name": "Match Angular Manual",
+          "role": "strongest manual testcase writing reference root"
+        },
+        {
+          "suiteId": 171004,
+          "name": "Match Smoke Tests",
+          "role": "structural root only; currently low-yield for testcase corpus"
+        },
+        {
+          "suiteId": 70963,
+          "name": "Tasks",
+          "role": "legacy task coverage outside the newer automation and manual roots"
+        },
+        {
+          "suiteId": 106752,
+          "name": "Import Translations",
+          "role": "module-specific reference coverage"
+        },
+        {
+          "suiteId": 115949,
+          "name": "Import Validation",
+          "role": "validation behavior source"
+        }
+      ]
+    },
+    {
+      "planId": 6357,
+      "suiteId": 149176,
+      "label": "TDL",
+      "recursive": true,
+      "domain": "TDL",
+      "notableChildren": [
+        {
+          "suiteId": 149279,
+          "name": "TDL Tasks",
+          "role": "primary TDL task behavior corpus"
+        },
+        {
+          "suiteId": 149237,
+          "name": "TDL Transaction Criteria",
+          "role": "criteria management and SmartResolve-related constraints"
+        },
+        {
+          "suiteId": 149295,
+          "name": "TDL Legacy Reports",
+          "role": "report folder and permission patterns"
+        },
+        {
+          "suiteId": 149338,
+          "name": "TDL RCP",
+          "role": "launch task, scheduling, and execute/export patterns"
+        },
+        {
+          "suiteId": 182507,
+          "name": "TDL Admin",
+          "role": "admin and required-field behavior source"
+        }
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": null,
+      "label": "Latest Release Match Plan",
+      "recursive": true,
+      "domain": "Match Latest Release",
+      "sprintRoots": [
+        {
+          "suiteId": 191932,
+          "name": "Sprint 92"
+        },
+        {
+          "suiteId": 193676,
+          "name": "Sprint 93"
+        },
+        {
+          "suiteId": 195906,
+          "name": "Sprint 94"
+        },
+        {
+          "suiteId": 199887,
+          "name": "Sprint 95"
+        },
+        {
+          "suiteId": 202455,
+          "name": "Sprint 96"
+        }
+      ],
+      "highValueLeaves": [
+        {
+          "suiteId": 195757,
+          "name": "186194 : Recurring Tasks - Batch import - QA Only",
+          "role": "latest recurring batch import writing pattern"
+        },
+        {
+          "suiteId": 197407,
+          "name": "190446 : Recurring Tasks - Structure Import - QA Only",
+          "role": "task-parameter list view and weekly recurrence pattern"
+        },
+        {
+          "suiteId": 200016,
+          "name": "190444 : Recurring Tasks - Pay Return Import - QA Only",
+          "role": "minimal required-field recurring task coverage"
+        },
+        {
+          "suiteId": 202457,
+          "name": "190443 : Recurring Tasks - Pay Return Export - QA Only",
+          "role": "result-page and rerun coverage"
+        },
+        {
+          "suiteId": 200760,
+          "name": "195511 : Recurring Tasks - Results - QA Only",
+          "role": "results and post-execution notification coverage"
+        },
+        {
+          "suiteId": 200550,
+          "name": "191473 : Recurring Tasks - Bundled task group process - QA Only",
+          "role": "bundled option and dual-list behavior"
+        },
+        {
+          "suiteId": 203554,
+          "name": "200541 : Add Post-Completion Execution Options to Recurring Tasks",
+          "role": "conditional execution toggle and file path behavior"
+        },
+        {
+          "suiteId": 203846,
+          "name": "197711 : Recurring Tasks - Can not view a scheduled task if you do not have access to the sector",
+          "role": "view-only security behavior"
+        },
+        {
+          "suiteId": 203942,
+          "name": "201689 : Remove Unsupported Task Types from Recurring Tasks and Keep Custom Process in Launch Task",
+          "role": "task-type list pruning and launch-vs-recurring differentiation"
+        }
+      ]
+    }
+  ]
+}

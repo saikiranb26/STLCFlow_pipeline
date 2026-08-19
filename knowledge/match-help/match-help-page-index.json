@@ -1,0 +1,4415 @@
+{
+  "generatedAt": "2026-06-09T18:05:32.848Z",
+  "sourceRoot": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/match.htm?tocpath=Match%7C_____0",
+  "tocSource": "https://cadencyhelp.lower.trintech.com/edinburgh/Data/Tocs/Cadency.js",
+  "totalPages": 249,
+  "modules": [
+    {
+      "moduleName": "Accessing Match",
+      "pageCount": 1,
+      "fileName": "accessing-match.md"
+    },
+    {
+      "moduleName": "Account Maintenance",
+      "pageCount": 16,
+      "fileName": "account-maintenance.md"
+    },
+    {
+      "moduleName": "Accounts",
+      "pageCount": 1,
+      "fileName": "accounts.md"
+    },
+    {
+      "moduleName": "ACH Processing",
+      "pageCount": 16,
+      "fileName": "ach-processing.md"
+    },
+    {
+      "moduleName": "Advanced Features",
+      "pageCount": 7,
+      "fileName": "advanced-features.md"
+    },
+    {
+      "moduleName": "Amortization/Depreciation",
+      "pageCount": 12,
+      "fileName": "amortization-depreciation.md"
+    },
+    {
+      "moduleName": "Archived Amortization/Depreciation Schedules",
+      "pageCount": 1,
+      "fileName": "archived-amortization-depreciation-schedules.md"
+    },
+    {
+      "moduleName": "Archived Reconciliations",
+      "pageCount": 1,
+      "fileName": "archived-reconciliations.md"
+    },
+    {
+      "moduleName": "Archived Transactions",
+      "pageCount": 1,
+      "fileName": "archived-transactions.md"
+    },
+    {
+      "moduleName": "Audit Details",
+      "pageCount": 1,
+      "fileName": "audit-details.md"
+    },
+    {
+      "moduleName": "Audits",
+      "pageCount": 1,
+      "fileName": "audits.md"
+    },
+    {
+      "moduleName": "AutoMatching",
+      "pageCount": 12,
+      "fileName": "automatching.md"
+    },
+    {
+      "moduleName": "BAI configuration",
+      "pageCount": 6,
+      "fileName": "bai-configuration.md"
+    },
+    {
+      "moduleName": "Balance control",
+      "pageCount": 1,
+      "fileName": "balance-control.md"
+    },
+    {
+      "moduleName": "Calendars in Match",
+      "pageCount": 8,
+      "fileName": "calendars-in-match.md"
+    },
+    {
+      "moduleName": "Check Range Processing",
+      "pageCount": 3,
+      "fileName": "check-range-processing.md"
+    },
+    {
+      "moduleName": "Common Errors when Importing Data",
+      "pageCount": 1,
+      "fileName": "common-errors-when-importing-data.md"
+    },
+    {
+      "moduleName": "Create batch|Edit batch",
+      "pageCount": 1,
+      "fileName": "create-batch-edit-batch.md"
+    },
+    {
+      "moduleName": "Create expert transaction criteria|Edit expert transaction criteria",
+      "pageCount": 1,
+      "fileName": "create-expert-transaction-criteria-edit-expert-transaction-criteria.md"
+    },
+    {
+      "moduleName": "Create standard transaction criteria|Edit standard transaction criteria",
+      "pageCount": 1,
+      "fileName": "create-standard-transaction-criteria-edit-standard-transaction-criteria.md"
+    },
+    {
+      "moduleName": "Daily reconciliations List",
+      "pageCount": 1,
+      "fileName": "daily-reconciliations-list.md"
+    },
+    {
+      "moduleName": "Data Exports",
+      "pageCount": 3,
+      "fileName": "data-exports.md"
+    },
+    {
+      "moduleName": "Data Imports and Exports",
+      "pageCount": 9,
+      "fileName": "data-imports-and-exports.md"
+    },
+    {
+      "moduleName": "Defining a Location",
+      "pageCount": 5,
+      "fileName": "defining-a-location.md"
+    },
+    {
+      "moduleName": "Duplicate Checking Definitions",
+      "pageCount": 3,
+      "fileName": "duplicate-checking-definitions.md"
+    },
+    {
+      "moduleName": "Email Templates",
+      "pageCount": 3,
+      "fileName": "email-templates.md"
+    },
+    {
+      "moduleName": "Exception Manager",
+      "pageCount": 4,
+      "fileName": "exception-manager.md"
+    },
+    {
+      "moduleName": "Execute Archive",
+      "pageCount": 1,
+      "fileName": "execute-archive.md"
+    },
+    {
+      "moduleName": "General Ledger Integration",
+      "pageCount": 16,
+      "fileName": "general-ledger-integration.md"
+    },
+    {
+      "moduleName": "Import Translations",
+      "pageCount": 5,
+      "fileName": "import-translations.md"
+    },
+    {
+      "moduleName": "Import Validation",
+      "pageCount": 4,
+      "fileName": "import-validation.md"
+    },
+    {
+      "moduleName": "Information Setup",
+      "pageCount": 2,
+      "fileName": "information-setup.md"
+    },
+    {
+      "moduleName": "Maintaining System Parameters",
+      "pageCount": 2,
+      "fileName": "maintaining-system-parameters.md"
+    },
+    {
+      "moduleName": "Masking Definitions and PCI Compliance",
+      "pageCount": 2,
+      "fileName": "masking-definitions-and-pci-compliance.md"
+    },
+    {
+      "moduleName": "Match Main",
+      "pageCount": 3,
+      "fileName": "match-main.md"
+    },
+    {
+      "moduleName": "Navigating in the Match Web Client",
+      "pageCount": 1,
+      "fileName": "navigating-in-the-match-web-client.md"
+    },
+    {
+      "moduleName": "Operational Structures",
+      "pageCount": 9,
+      "fileName": "operational-structures.md"
+    },
+    {
+      "moduleName": "Overview",
+      "pageCount": 1,
+      "fileName": "overview.md"
+    },
+    {
+      "moduleName": "Reference Definitions",
+      "pageCount": 4,
+      "fileName": "reference-definitions.md"
+    },
+    {
+      "moduleName": "Reporting in Match",
+      "pageCount": 6,
+      "fileName": "reporting-in-match.md"
+    },
+    {
+      "moduleName": "Reports",
+      "pageCount": 1,
+      "fileName": "reports.md"
+    },
+    {
+      "moduleName": "Running a Match Reconciliation",
+      "pageCount": 11,
+      "fileName": "running-a-match-reconciliation.md"
+    },
+    {
+      "moduleName": "Securing Archive Tasks and Configurations",
+      "pageCount": 1,
+      "fileName": "securing-archive-tasks-and-configurations.md"
+    },
+    {
+      "moduleName": "Security Profiles in Match",
+      "pageCount": 8,
+      "fileName": "security-profiles-in-match.md"
+    },
+    {
+      "moduleName": "Setting Retention Parameters for Transactional and Non-Transactional Data",
+      "pageCount": 1,
+      "fileName": "setting-retention-parameters-for-transactional-and-non-transactional-data.md"
+    },
+    {
+      "moduleName": "SmartResolve",
+      "pageCount": 6,
+      "fileName": "smartresolve.md"
+    },
+    {
+      "moduleName": "System Security in Match",
+      "pageCount": 1,
+      "fileName": "system-security-in-match.md"
+    },
+    {
+      "moduleName": "Tasks",
+      "pageCount": 26,
+      "fileName": "tasks.md"
+    },
+    {
+      "moduleName": "Transaction Control",
+      "pageCount": 1,
+      "fileName": "transaction-control.md"
+    },
+    {
+      "moduleName": "Transaction criteria",
+      "pageCount": 1,
+      "fileName": "transaction-criteria.md"
+    },
+    {
+      "moduleName": "Transaction criteria details",
+      "pageCount": 1,
+      "fileName": "transaction-criteria-details.md"
+    },
+    {
+      "moduleName": "Transaction details",
+      "pageCount": 1,
+      "fileName": "transaction-details.md"
+    },
+    {
+      "moduleName": "Transactions Dashboard",
+      "pageCount": 5,
+      "fileName": "transactions-dashboard.md"
+    },
+    {
+      "moduleName": "Transactions Search",
+      "pageCount": 1,
+      "fileName": "transactions-search.md"
+    },
+    {
+      "moduleName": "Unattached Contacts",
+      "pageCount": 3,
+      "fileName": "unattached-contacts.md"
+    },
+    {
+      "moduleName": "User Maintenance",
+      "pageCount": 3,
+      "fileName": "user-maintenance.md"
+    },
+    {
+      "moduleName": "Viewing the Grouped Reconciliation History",
+      "pageCount": 1,
+      "fileName": "viewing-the-grouped-reconciliation-history.md"
+    },
+    {
+      "moduleName": "Viewing the Reconciliation History",
+      "pageCount": 1,
+      "fileName": "viewing-the-reconciliation-history.md"
+    }
+  ],
+  "pages": [
+    {
+      "title": "About Match",
+      "moduleName": "Overview",
+      "tocPath": [
+        "Match"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/match.htm",
+      "urlPath": "/content/match/reference/match.htm",
+      "headings": [
+        "About Match",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Accessing Match",
+      "moduleName": "Accessing Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/accessingmatch.htm",
+      "urlPath": "/content/match/reference/accessingmatch.htm",
+      "headings": [
+        "Accessing Match",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Match Main Screen",
+      "moduleName": "Match Main",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "Match Main Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/mainscreen.htm",
+      "urlPath": "/content/match/reference/mainscreen.htm",
+      "headings": [
+        "Match Main Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Dashboard Screen",
+      "moduleName": "Match Main",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "Match Main Screen",
+        "Dashboard Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/managementdashboard/dashboardscreen.htm",
+      "urlPath": "/content/match/managementdashboard/dashboardscreen.htm",
+      "headings": [
+        "Dashboard Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Setting Preferences",
+      "moduleName": "Match Main",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "Match Main Screen",
+        "Setting Preferences"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/preferences/setting_preferences.htm",
+      "urlPath": "/content/match/preferences/setting_preferences.htm",
+      "headings": [
+        "Preferences Screen"
+      ]
+    },
+    {
+      "title": "Navigating in the Match Web Client",
+      "moduleName": "Navigating in the Match Web Client",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "Navigating in the Match Web Client"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/navigatinginthematchwebclient.htm",
+      "urlPath": "/content/match/reference/navigatinginthematchwebclient.htm",
+      "headings": [
+        "Navigating in the Match Web Client"
+      ]
+    },
+    {
+      "title": "System Security in Match",
+      "moduleName": "System Security in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/systemsecurityinmatch.htm",
+      "urlPath": "/content/match/security/systemsecurityinmatch.htm",
+      "headings": [
+        "System Security in Match",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Account Maintenance",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/account_maintenance.htm",
+      "urlPath": "/content/certificationadmin/account_maintenance.htm",
+      "headings": [
+        "Account Maintenance"
+      ]
+    },
+    {
+      "title": "About Match Accounts",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "About Match Accounts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/about_accounts.htm",
+      "urlPath": "/content/match/reference/about_accounts.htm",
+      "headings": [
+        "About Match Accounts",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "External and Internal Accounts",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "About Match Accounts",
+        "External and Internal Accounts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/external_and_internal_accounts.htm",
+      "urlPath": "/content/match/reference/external_and_internal_accounts.htm",
+      "headings": [
+        "External and Internal Accounts"
+      ]
+    },
+    {
+      "title": "Processing Check Disbursement Accounts",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "About Match Accounts",
+        "Processing Check Disbursement Accounts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/processing_check_disbursement_accounts.htm",
+      "urlPath": "/content/match/reference/processing_check_disbursement_accounts.htm",
+      "headings": [
+        "Processing Check Disbursement Accounts"
+      ]
+    },
+    {
+      "title": "Processing Depository Accounts",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "About Match Accounts",
+        "Processing Depository Accounts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/processing_depository_accounts.htm",
+      "urlPath": "/content/match/reference/processing_depository_accounts.htm",
+      "headings": [
+        "Processing Match Depository Accounts"
+      ]
+    },
+    {
+      "title": "Understanding Match Account IDs",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "About Match Accounts",
+        "Understanding Match Account IDs"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/matchaccountids.htm",
+      "urlPath": "/content/match/reference/matchaccountids.htm",
+      "headings": [
+        "Understanding Match Account ID's"
+      ]
+    },
+    {
+      "title": "About Source Accounts",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "About Source Accounts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/understanding_import_accounts.htm",
+      "urlPath": "/content/match/reference/understanding_import_accounts.htm",
+      "headings": [
+        "About Source Accounts",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create|Edit Source Account Screen",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "About Source Accounts",
+        "Create|Edit Source Account Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/reference/createeditsourceaccountscreen.htm",
+      "urlPath": "/content/certificationadmin/reference/createeditsourceaccountscreen.htm",
+      "headings": [
+        "Create|Edit Source Account Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Add a New Account or Edit an Existing Account",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Add a New Account or Edit an Existing Account"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/add_new_account.htm",
+      "urlPath": "/content/certificationadmin/add_new_account.htm",
+      "headings": [
+        "Add a New Account or Edit an Existing Account",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Account Configuration Data",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Add a New Account or Edit an Existing Account",
+        "Account Configuration Data"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/management/configuration/account%20configuration%20data/account%20configuration%20data%20screen.htm",
+      "urlPath": "/content/certificationadmin/management/configuration/account configuration data/account configuration data screen.htm",
+      "headings": [
+        "Account Configuration Data Screen"
+      ]
+    },
+    {
+      "title": "Account Profile Screen",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Add a New Account or Edit an Existing Account",
+        "Account Profile Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/reference/view_accounts.htm",
+      "urlPath": "/content/certificationadmin/reference/view_accounts.htm",
+      "headings": [
+        "Account Profile Screen"
+      ]
+    },
+    {
+      "title": "Rate Maintenance Screen",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Add a New Account or Edit an Existing Account",
+        "Rate Maintenance Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/management/configuration/fx%20conversion%20settings/rate_maintenance_screen%20(fx).htm",
+      "urlPath": "/content/certificationadmin/management/configuration/fx conversion settings/rate_maintenance_screen (fx).htm",
+      "headings": [
+        "Rate Maintenance Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Rate Types Screen",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Add a New Account or Edit an Existing Account",
+        "Rate Types Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/management/configuration/fx%20conversion%20settings/rate_types_screens%20(fx).htm",
+      "urlPath": "/content/certificationadmin/management/configuration/fx conversion settings/rate_types_screens (fx).htm",
+      "headings": [
+        "Rate Types Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Balancing Accounts",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Balancing Accounts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/balancing_accounts.htm",
+      "urlPath": "/content/match/reference/balancing_accounts.htm",
+      "headings": [
+        "Balancing Accounts"
+      ]
+    },
+    {
+      "title": "Defining Accounts",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Defining Accounts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/defining_accounts.htm",
+      "urlPath": "/content/match/reference/defining_accounts.htm",
+      "headings": [
+        "Defining Accounts"
+      ]
+    },
+    {
+      "title": "Running Reconciliations",
+      "moduleName": "Account Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Account Maintenance",
+        "Running Reconciliations"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/running_reconciliations.htm",
+      "urlPath": "/content/match/reference/running_reconciliations.htm",
+      "headings": [
+        "Running Reconciliations"
+      ]
+    },
+    {
+      "title": "Understanding Security Profiles in Match",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/understanding_security_profiles_in_match.htm",
+      "urlPath": "/content/match/security/understanding_security_profiles_in_match.htm",
+      "headings": [
+        "Understanding Security Profiles in Match"
+      ]
+    },
+    {
+      "title": "Sector manager Screen",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match",
+        "Sector manager Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/sectormanager.htm",
+      "urlPath": "/content/match/security/sectormanager.htm",
+      "headings": [
+        "Sector manager Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Sector details Screen/ Edit sector Screen",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match",
+        "Sector manager Screen",
+        "Sector details Screen/ Edit sector Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/sector%20details%20screen.htm",
+      "urlPath": "/content/match/security/sector details screen.htm",
+      "headings": [
+        "Sector details Screen/ Edit sector Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Security profiles Screen",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match",
+        "Security profiles Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/securityprofilesscreen.htm",
+      "urlPath": "/content/match/security/securityprofilesscreen.htm",
+      "headings": [
+        "Security profiles Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create / Edit security profile Screen",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match",
+        "Security profiles Screen",
+        "Create / Edit security profile Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/create-editsecurityprofilesscreen.htm",
+      "urlPath": "/content/match/security/create-editsecurityprofilesscreen.htm",
+      "headings": [
+        "Create / Edit security profile Screen"
+      ]
+    },
+    {
+      "title": "User group manager Screen",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match",
+        "User group manager Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/usergroupmanager.htm",
+      "urlPath": "/content/match/security/usergroupmanager.htm",
+      "headings": [
+        "User group manager Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Edit user group Screen",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match",
+        "User group manager Screen",
+        "Edit user group Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/editusergroupscreen.htm",
+      "urlPath": "/content/match/security/editusergroupscreen.htm",
+      "headings": [
+        "Edit user group Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "User permissions manager Screen",
+      "moduleName": "Security Profiles in Match",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "Understanding Security Profiles in Match",
+        "User permissions manager Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/security/userpermissionsmanager.htm",
+      "urlPath": "/content/match/security/userpermissionsmanager.htm",
+      "headings": [
+        "User permissions manager Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "About User Maintenance",
+      "moduleName": "User Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "User Maintenance"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/view_users.htm",
+      "urlPath": "/content/certificationadmin/view_users.htm",
+      "headings": [
+        "About User Maintenance",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Users Detail Screen",
+      "moduleName": "User Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "User Maintenance",
+        "User Details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/usersettingsscreen.htm",
+      "urlPath": "/content/usersettingsscreen.htm",
+      "headings": [
+        "Users Detail Screen"
+      ]
+    },
+    {
+      "title": "User Profiles List Screen",
+      "moduleName": "User Maintenance",
+      "tocPath": [
+        "Match",
+        "Accessing Match",
+        "System Security in Match",
+        "User Maintenance",
+        "User Profile Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/reference/userlist.htm",
+      "urlPath": "/content/certificationadmin/reference/userlist.htm",
+      "headings": [
+        "User Profiles List Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Advanced Features",
+      "moduleName": "Advanced Features",
+      "tocPath": [
+        "Match",
+        "Advanced Features"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/advanced%20features.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/advanced features.htm",
+      "headings": [
+        "Advanced Features"
+      ]
+    },
+    {
+      "title": "About the Admin Dashboard",
+      "moduleName": "Advanced Features",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/about_the_admin_dashboard.htm",
+      "urlPath": "/content/match/admindashboard/about_the_admin_dashboard.htm",
+      "headings": [
+        "About the Admin Dashboard",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "About Duplicate Checking Definitions",
+      "moduleName": "Duplicate Checking Definitions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Duplicate Checking Definitions"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/dulicatechecking/aboutduplicatecheckingdefinitions.htm",
+      "urlPath": "/content/match/admindashboard/dulicatechecking/aboutduplicatecheckingdefinitions.htm",
+      "headings": [
+        "About Duplicate Checking Definitions",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Duplicate checking definitions Screen",
+      "moduleName": "Duplicate Checking Definitions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Duplicate Checking Definitions",
+        "Duplicate checking definitions Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/dulicatechecking/duplicatecheckingdefinition.htm",
+      "urlPath": "/content/match/admindashboard/dulicatechecking/duplicatecheckingdefinition.htm",
+      "headings": [
+        "Duplicate checking definitions Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "New/Edit Duplicate Checking Defiitions",
+      "moduleName": "Duplicate Checking Definitions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Duplicate Checking Definitions",
+        "New/Edit Duplicate Checking Defiitions"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/dulicatechecking/new-editduplicate_checking_definition_screen.htm",
+      "urlPath": "/content/match/admindashboard/dulicatechecking/new-editduplicate_checking_definition_screen.htm",
+      "headings": [
+        "Create a new/Edit duplicate checking definition Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Introducing Email Templates",
+      "moduleName": "Email Templates",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Email Templates"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/emailtemplatemanager/email_templates.htm",
+      "urlPath": "/content/match/admindashboard/emailtemplatemanager/email_templates.htm",
+      "headings": [
+        "About Email Templates",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create new / Edit email template Screen",
+      "moduleName": "Email Templates",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Email Templates",
+        "Create new / Edit email template Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/emailtemplatemanager/create%20new-edit%20email%20template%20screen.htm",
+      "urlPath": "/content/match/admindashboard/emailtemplatemanager/create new-edit email template screen.htm",
+      "headings": [
+        "Create new / Edit email template Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Email templates Screen",
+      "moduleName": "Email Templates",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Email Templates",
+        "Email templates Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/emailtemplatemanager/email%20templates%20screen.htm",
+      "urlPath": "/content/match/admindashboard/emailtemplatemanager/email templates screen.htm",
+      "headings": [
+        "Email templates Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "About Unattached Contacts",
+      "moduleName": "Unattached Contacts",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Unattached Contacts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/unattached%20contacts/about_unattached_contacts.htm",
+      "urlPath": "/content/match/admindashboard/unattached contacts/about_unattached_contacts.htm",
+      "headings": [
+        "About Unattached Contacts",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create/Edit unattached contact Screen",
+      "moduleName": "Unattached Contacts",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Unattached Contacts",
+        "Create/Edit unattached contact Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/unattached%20contacts/create-editunattachedcontactscreen.htm",
+      "urlPath": "/content/match/admindashboard/unattached contacts/create-editunattachedcontactscreen.htm",
+      "headings": [
+        "Create/Edit unattached contact Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Unattached contacts manager Screen",
+      "moduleName": "Unattached Contacts",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "About Unattached Contacts",
+        "Unattached contacts manager Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/unattached%20contacts/unattached%20contacts%20manager.htm",
+      "urlPath": "/content/match/admindashboard/unattached contacts/unattached contacts manager.htm",
+      "headings": [
+        "Unattached contacts manager Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Accounts Screen",
+      "moduleName": "Accounts",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Accounts Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/account%20manager/accounts%20screen.htm",
+      "urlPath": "/content/match/admindashboard/account manager/accounts screen.htm",
+      "headings": [
+        "Accounts Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "BAI configuration Screen",
+      "moduleName": "BAI configuration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "BAI configuration Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/baiconfiguration/baiconfigurationscreen.htm",
+      "urlPath": "/content/match/admindashboard/baiconfiguration/baiconfigurationscreen.htm",
+      "headings": [
+        "BAI configuration Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "BAI Cash Management Reporting Specifications",
+      "moduleName": "BAI configuration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "BAI configuration Screen",
+        "BAI Cash Management Reporting Specifications"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/baiconfiguration/bai_cash_management_reporting_specifications.htm",
+      "urlPath": "/content/match/admindashboard/baiconfiguration/bai_cash_management_reporting_specifications.htm",
+      "headings": [
+        "BAI Cash Management Reporting Specifications"
+      ]
+    },
+    {
+      "title": "BAI File Format",
+      "moduleName": "BAI configuration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "BAI configuration Screen",
+        "BAI File Format"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/baiconfiguration/bai_file_format.htm",
+      "urlPath": "/content/match/admindashboard/baiconfiguration/bai_file_format.htm",
+      "headings": [
+        "BAI File Format"
+      ]
+    },
+    {
+      "title": "BAI Mapping Screen",
+      "moduleName": "BAI configuration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "BAI configuration Screen",
+        "BAI Mapping Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/baiconfiguration/baimappingscreen.htm",
+      "urlPath": "/content/match/admindashboard/baiconfiguration/baimappingscreen.htm",
+      "headings": [
+        "BAI Mapping Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create|Edit BAI Code Screen",
+      "moduleName": "BAI configuration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "BAI configuration Screen",
+        "Create|Edit BAI Code Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/baiconfiguration/create-editbaicodescreen.htm",
+      "urlPath": "/content/match/admindashboard/baiconfiguration/create-editbaicodescreen.htm",
+      "headings": [
+        "Create|Edit BAI Code Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding BAI System Codes",
+      "moduleName": "BAI configuration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "BAI configuration Screen",
+        "Understanding BAI System Codes"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/baiconfiguration/understanding_bai_system_codes.htm",
+      "urlPath": "/content/match/admindashboard/baiconfiguration/understanding_bai_system_codes.htm",
+      "headings": [
+        "Understanding BAI System Codes",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Masking Definitions and PCI Compliance",
+      "moduleName": "Masking Definitions and PCI Compliance",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Masking Definitions and PCI Compliance"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/pci_compliance.htm",
+      "urlPath": "/content/match/reference/pci_compliance.htm",
+      "headings": [
+        "Masking Definitions - PCI Compliance"
+      ]
+    },
+    {
+      "title": "Configure Masking Definitions Screen",
+      "moduleName": "Masking Definitions and PCI Compliance",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Masking Definitions and PCI Compliance",
+        "Configure Masking Definitions Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/maskingdefinitions/configure%20masking_definitions.htm",
+      "urlPath": "/content/match/admindashboard/maskingdefinitions/configure masking_definitions.htm",
+      "headings": [
+        "Configure masking definitions Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding ACH Processing",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/understanding_ach_processing.htm",
+      "urlPath": "/content/match/admindashboard/ach/understanding_ach_processing.htm",
+      "headings": [
+        "Understanding ACH Processing"
+      ]
+    },
+    {
+      "title": "ACH configuration Screen",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "ACH configuration Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achconfigurationscreen.htm",
+      "urlPath": "/content/match/admindashboard/ach/achconfigurationscreen.htm",
+      "headings": [
+        "ACH configuration Screen"
+      ]
+    },
+    {
+      "title": "ACH Formula Calculator Screen",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "ACH Formula Calculator Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/create-editformulascreen.htm",
+      "urlPath": "/content/match/admindashboard/ach/create-editformulascreen.htm",
+      "headings": [
+        "Create/Edit Formula Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Book Deposit and Flat Amount Methods of ACH Calculation",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "ACH Formula Calculator Screen",
+        "Book Deposit and Flat Amount Methods of ACH Calculation"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achformulas/book_deposit_and_flat_amount_method.htm",
+      "urlPath": "/content/match/admindashboard/ach/achformulas/book_deposit_and_flat_amount_method.htm",
+      "headings": [
+        "Book Deposit and Flat Amount Methods of ACH Calculation"
+      ]
+    },
+    {
+      "title": "Elements of the ACH Anticipatory Formula",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "ACH Formula Calculator Screen",
+        "Elements of the ACH Anticipatory Formula"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achformulas/elements_of_the_ach_anticipatory_formula.htm",
+      "urlPath": "/content/match/admindashboard/ach/achformulas/elements_of_the_ach_anticipatory_formula.htm",
+      "headings": [
+        "Elements of the ACH Anticipatory Formula"
+      ]
+    },
+    {
+      "title": "Elements of the Advanced ACH Anticipatory Formula",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "ACH Formula Calculator Screen",
+        "Elements of the Advanced ACH Anticipatory Formula"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achformulas/elements_of_the_advanced_ach_anticipatory_formula.htm",
+      "urlPath": "/content/match/admindashboard/ach/achformulas/elements_of_the_advanced_ach_anticipatory_formula.htm",
+      "headings": [
+        "Elements of the Advanced ACH Anticipatory Formula"
+      ]
+    },
+    {
+      "title": "Old Verified ACH Formula",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "ACH Formula Calculator Screen",
+        "Old Verified ACH Formula"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achformulas/old_verified_ach_formula.htm",
+      "urlPath": "/content/match/admindashboard/ach/achformulas/old_verified_ach_formula.htm",
+      "headings": [
+        "Old Verified ACH Formula"
+      ]
+    },
+    {
+      "title": "Verified ACH Formula",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "ACH Formula Calculator Screen",
+        "Verified ACH Formula"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achformulas/verified_ach_formula.htm",
+      "urlPath": "/content/match/admindashboard/ach/achformulas/verified_ach_formula.htm",
+      "headings": [
+        "Verified ACH Formula"
+      ]
+    },
+    {
+      "title": "Managing Send to ABA Parameters",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Create/Edit company name Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/create-editcompanyname.htm",
+      "urlPath": "/content/match/admindashboard/ach/create-editcompanyname.htm",
+      "headings": [
+        "Create/Edit company name Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create/Edit Send to ABA",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Create/Edit Send to ABA"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/create-editsendtoaba.htm",
+      "urlPath": "/content/match/admindashboard/ach/create-editsendtoaba.htm",
+      "headings": [
+        "Create/Edit Send to ABA Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Edit ACH mapping Screen",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Edit ACH mapping Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/editachmappingscreen.htm",
+      "urlPath": "/content/match/admindashboard/ach/editachmappingscreen.htm",
+      "headings": [
+        "Edit ACH mapping Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Executing ACH",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Executing ACH"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achformulas/executing_ach.htm",
+      "urlPath": "/content/match/admindashboard/ach/achformulas/executing_ach.htm",
+      "headings": [
+        "Executing ACH",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Execute ACH",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Executing ACH",
+        "Execute ACH Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/executeachtaskscreen.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/executeachtaskscreen.htm",
+      "headings": [
+        "Execute ACH Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Recurring Task Setup",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Executing ACH",
+        "Recurring Task Setup"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/scheduling%20dashboard/tasks/recurring%20task%20setup.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/scheduling dashboard/tasks/recurring task setup.htm",
+      "headings": [
+        "Recurring Task Setup",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Maintaining ACH Records and Files",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Maintaining ACH Records and Files"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achformulas/maintaining_ach_records_and_files.htm",
+      "urlPath": "/content/match/admindashboard/ach/achformulas/maintaining_ach_records_and_files.htm",
+      "headings": [
+        "Maintaining ACH Records and Files"
+      ]
+    },
+    {
+      "title": "ACH Records Screen",
+      "moduleName": "ACH Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding ACH Processing",
+        "Maintaining ACH Records and Files",
+        "ACH Records Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/ach/achrecordsscreen.htm",
+      "urlPath": "/content/match/admindashboard/ach/achrecordsscreen.htm",
+      "headings": [
+        "ACH records Screen"
+      ]
+    },
+    {
+      "title": "Understanding Calendars in Match",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/understanding%20calendars.htm",
+      "urlPath": "/content/match/admindashboard/calendars/understanding calendars.htm",
+      "headings": [
+        "Understanding Calendars in Match",
+        "About Business Day Calendars",
+        "Business Calendar Retention",
+        "Out of Office Schedules",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Add calendar rule Dialog",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match",
+        "Add calendar rule Dialog"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/addcalendarrule.htm",
+      "urlPath": "/content/match/admindashboard/calendars/addcalendarrule.htm",
+      "headings": [
+        "Add calendar rule Dialog"
+      ]
+    },
+    {
+      "title": "Calendars Screen",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match",
+        "Calendars Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/calendars%20screen.htm",
+      "urlPath": "/content/match/admindashboard/calendars/calendars screen.htm",
+      "headings": [
+        "Calendars Screen"
+      ]
+    },
+    {
+      "title": "Create / Edit business day calendar Screen",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match",
+        "Create / Edit business day calendar Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/create-editbusinessdaycalendars.htm",
+      "urlPath": "/content/match/admindashboard/calendars/create-editbusinessdaycalendars.htm",
+      "headings": [
+        "Create / Edit business day calendar Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create / Edit Fiscal calendar Screen",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match",
+        "Create / Edit Fiscal calendar Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/create-editfiscalcalendars.htm",
+      "urlPath": "/content/match/admindashboard/calendars/create-editfiscalcalendars.htm",
+      "headings": [
+        "Create / Edit Fiscal calendar Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create / Edit GL calendar Screen",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match",
+        "Create / Edit GL calendar Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/create-editglcalendars.htm",
+      "urlPath": "/content/match/admindashboard/calendars/create-editglcalendars.htm",
+      "headings": [
+        "Create / Edit GL calendar Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create / Edit scheduling business day calendar Screen",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match",
+        "Create / Edit scheduling business day calendar Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/create-editschedulingcalendars.htm",
+      "urlPath": "/content/match/admindashboard/calendars/create-editschedulingcalendars.htm",
+      "headings": [
+        "Create / Edit scheduling business day calendar Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Out of office schedule Dialog",
+      "moduleName": "Calendars in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Calendars in Match",
+        "Out of office schedule Dialog"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/calendars/out%20of%20office/out%20of%20office%20schedule%20dialog.htm",
+      "urlPath": "/content/match/admindashboard/calendars/out of office/out of office schedule dialog.htm",
+      "headings": [
+        "Out of office schedule Dialog"
+      ]
+    },
+    {
+      "title": "Understanding Data Imports and Exports",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/import-exportdefinitions/understandingdataimportsandexports.htm",
+      "urlPath": "/content/match/admindashboard/import-exportdefinitions/understandingdataimportsandexports.htm",
+      "headings": [
+        "Understanding Data Imports and Exports",
+        "About Imports",
+        "About Exports",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Batch Import definitions Screen",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Batch Import definitions Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/import-exportdefinitions/import%20and%20export%20definitions%20screen.htm",
+      "urlPath": "/content/match/admindashboard/import-exportdefinitions/import and export definitions screen.htm",
+      "headings": [
+        "Batch Import definitions Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Correcting Import Data Errors",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Correcting Import Data Errors"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpopenmenu/correcting_import_data_errors.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpopenmenu/correcting_import_data_errors.htm",
+      "headings": [
+        "Correcting Import Data Errors"
+      ]
+    },
+    {
+      "title": "Create/Edit Batch Import Definition Screen",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Create/Edit Batch Import Definition Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/import-exportdefinitions/create-editbatchimportdefinitionscreen.htm",
+      "urlPath": "/content/match/admindashboard/import-exportdefinitions/create-editbatchimportdefinitionscreen.htm",
+      "headings": [
+        "Create/Edit Batch Import Definition Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Importing Basics",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Importing Basics"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/dataimports/importing_basics.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/dataimports/importing_basics.htm",
+      "headings": [
+        "Importing Basics",
+        "Maintaining Custom Import Definitions",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Defining a Custom Import",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Importing Basics",
+        "Custom Import Definition Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/configuration%20dashboard/custom_import_definition_screen.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/configuration dashboard/custom_import_definition_screen.htm",
+      "headings": [
+        "Custom Import Definition Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Defining a Legacy Custom Import Task",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Importing Basics",
+        "Defining a Legacy Custom Import Task"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/dataimports/defining_a_legacy_custom_import_task.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/dataimports/defining_a_legacy_custom_import_task.htm",
+      "headings": [
+        "Defining a Legacy Custom Import Task"
+      ]
+    },
+    {
+      "title": "Execute Custom Report",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Importing Basics",
+        "Execute Custom Report"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/executecustomreporttaskscreen.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/executecustomreporttaskscreen.htm",
+      "headings": [
+        "Execute Custom Report Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Job Interface Schedules",
+      "moduleName": "Data Imports and Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Data Imports and Exports",
+        "Job Interface Schedules"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/xml_interface_schedules.htm",
+      "urlPath": "/content/certificationadmin/xml_interface_schedules.htm",
+      "headings": [
+        "Job Interface Schedules",
+        "Job Interface Load File Details",
+        "Run an Interface",
+        "View an Interface History",
+        "Automatic Decertification",
+        "Notes for Specific Job Interface Files/Situations",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding Import Translations",
+      "moduleName": "Import Translations",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Translations"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importtranslations/understanding_import_translations.htm",
+      "urlPath": "/content/match/admindashboard/importtranslations/understanding_import_translations.htm",
+      "headings": [
+        "Understanding Import Translations",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Edit import translation Screen",
+      "moduleName": "Import Translations",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Translations",
+        "Edit import translation Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importtranslations/editimporttranslation.htm",
+      "urlPath": "/content/match/admindashboard/importtranslations/editimporttranslation.htm",
+      "headings": [
+        "Edit import translation Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Import Translation File Layout",
+      "moduleName": "Import Translations",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Translations",
+        "Import Translation File Layout"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importtranslations/import_translation_file_layout.htm",
+      "urlPath": "/content/match/admindashboard/importtranslations/import_translation_file_layout.htm",
+      "headings": [
+        "Import Translation File Layout"
+      ]
+    },
+    {
+      "title": "Import Translation Import Task Screen",
+      "moduleName": "Import Translations",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Translations",
+        "Import Translation Import Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importtranslations/import_translations_import_task.htm",
+      "urlPath": "/content/match/admindashboard/importtranslations/import_translations_import_task.htm",
+      "headings": [
+        "Import Translation Import Process Task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Import Translations Screen",
+      "moduleName": "Import Translations",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Translations",
+        "Import Translations Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importtranslations/import_translations_screen.htm",
+      "urlPath": "/content/match/admindashboard/importtranslations/import_translations_screen.htm",
+      "headings": [
+        "Import Translations Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding Import Validation",
+      "moduleName": "Import Validation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Validation"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importvalidations/understanding_import_validation.htm",
+      "urlPath": "/content/match/admindashboard/importvalidations/understanding_import_validation.htm",
+      "headings": [
+        "Understanding Import Validation",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create / Edit / View import validation Screens",
+      "moduleName": "Import Validation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Validation",
+        "Create / Edit / View import validation Screens"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importvalidations/create-editimportvalidation.htm",
+      "urlPath": "/content/match/admindashboard/importvalidations/create-editimportvalidation.htm",
+      "headings": [
+        "Create / Edit / View import validation Screens",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Import validations list Screen",
+      "moduleName": "Import Validation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Validation",
+        "Import validations list Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importvalidations/importvalidationslistscreen.htm",
+      "urlPath": "/content/match/admindashboard/importvalidations/importvalidationslistscreen.htm",
+      "headings": [
+        "Import validations list Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "System Validation",
+      "moduleName": "Import Validation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Import Validation",
+        "System Validation"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/importvalidations/system_validation.htm",
+      "urlPath": "/content/match/admindashboard/importvalidations/system_validation.htm",
+      "headings": [
+        "System Validation"
+      ]
+    },
+    {
+      "title": "Understanding Information Setup",
+      "moduleName": "Information Setup",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Information Setup"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/informationsetup/understanding%20information%20setup.htm",
+      "urlPath": "/content/match/admindashboard/informationsetup/understanding information setup.htm",
+      "headings": [
+        "Understanding Information Setup",
+        "Links:",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Information setup Screen",
+      "moduleName": "Information Setup",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Admin Dashboard",
+        "Understanding Information Setup",
+        "Information setup Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/admindashboard/informationsetup/informationsetupscreen.htm",
+      "urlPath": "/content/match/admindashboard/informationsetup/informationsetupscreen.htm",
+      "headings": [
+        "Information setup Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "About the Archive Dashboard",
+      "moduleName": "Advanced Features",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/understanding_data_archive.htm",
+      "urlPath": "/content/match/archivemenu/understanding_data_archive.htm",
+      "headings": [
+        "About the Archive Dashboard",
+        "Understanding Data Archive",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Archived Amortization/Depreciation Schedules",
+      "moduleName": "Archived Amortization/Depreciation Schedules",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Archived Amortization/Depreciation Schedules"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/archived%20amortization-depreciation%20schedules.htm",
+      "urlPath": "/content/match/archivemenu/archived amortization-depreciation schedules.htm",
+      "headings": [
+        "Archived Amortization/Depreciation Schedules",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Archived Reconciliations Screen",
+      "moduleName": "Archived Reconciliations",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Archived Reconciliations Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/archive_reconciliations.htm",
+      "urlPath": "/content/match/archivemenu/archive_reconciliations.htm",
+      "headings": [
+        "Archived Reconciliations Screen"
+      ]
+    },
+    {
+      "title": "Archived Transactions Screen",
+      "moduleName": "Archived Transactions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Archived Transactions Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/archive_transactions.htm",
+      "urlPath": "/content/match/archivemenu/archive_transactions.htm",
+      "headings": [
+        "Archived Transactions Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Running Archive Processes",
+      "moduleName": "Execute Archive",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Execute Archive Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/executearchivetaskscreen.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/executearchivetaskscreen.htm",
+      "headings": [
+        "Execute Archive Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Securing Archive Tasks and Configurations",
+      "moduleName": "Securing Archive Tasks and Configurations",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Securing Archive Tasks and Configurations"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/securing_archive_tasks_and_configurations.htm",
+      "urlPath": "/content/match/archivemenu/securing_archive_tasks_and_configurations.htm",
+      "headings": [
+        "Securing Archive Tasks and Configurations"
+      ]
+    },
+    {
+      "title": "Setting Parameters for Non-Transactional Data",
+      "moduleName": "Setting Retention Parameters for Transactional and Non-Transactional Data",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Setting Retention Parameters for Transactional and Non-Transactional Data"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/setting_parameters_for_transactional_and_non-transactional_data.htm",
+      "urlPath": "/content/match/archivemenu/setting_parameters_for_transactional_and_non-transactional_data.htm",
+      "headings": [
+        "Setting Retention Parameters for Transactional and Non-Transactional Data"
+      ]
+    },
+    {
+      "title": "Viewing the Grouped Reconciliation History",
+      "moduleName": "Viewing the Grouped Reconciliation History",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Viewing the Grouped Reconciliation History"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/groupreconciliationdetailsscreen.htm",
+      "urlPath": "/content/match/archivemenu/groupreconciliationdetailsscreen.htm",
+      "headings": [
+        "Group details Screen"
+      ]
+    },
+    {
+      "title": "Viewing the Reconciliation History",
+      "moduleName": "Viewing the Reconciliation History",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Archive Dashboard",
+        "Viewing the Reconciliation History"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/archivemenu/reconciliationdetailsscreen.htm",
+      "urlPath": "/content/match/archivemenu/reconciliationdetailsscreen.htm",
+      "headings": [
+        "Reconciliation details screen"
+      ]
+    },
+    {
+      "title": "About the Audits Dashboard",
+      "moduleName": "Advanced Features",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Audits Dashboard"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/auditmenu/about%20audits.htm",
+      "urlPath": "/content/match/auditmenu/about audits.htm",
+      "headings": [
+        "About the Audits Dashboard",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Audit Details Screen",
+      "moduleName": "Audit Details",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Audits Dashboard",
+        "Audit Details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/auditmenu/auditdetailsscreen.htm",
+      "urlPath": "/content/match/auditmenu/auditdetailsscreen.htm",
+      "headings": [
+        "Audit Details Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Audits Screen",
+      "moduleName": "Audits",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Audits Dashboard",
+        "Audits Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/auditmenu/auditsscreen.htm",
+      "urlPath": "/content/match/auditmenu/auditsscreen.htm",
+      "headings": [
+        "Audits Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "About the Match Configuration Dashboard",
+      "moduleName": "Advanced Features",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/about%20configuration.htm",
+      "urlPath": "/content/match/configurationmenu/about configuration.htm",
+      "headings": [
+        "About the Match Configuration Dashboard"
+      ]
+    },
+    {
+      "title": "Defining a Location",
+      "moduleName": "Defining a Location",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Defining a Location"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/locationmanager/defining_a_location.htm",
+      "urlPath": "/content/match/configurationmenu/locationmanager/defining_a_location.htm",
+      "headings": [
+        "Defining a Location",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create/Edit location Screen",
+      "moduleName": "Defining a Location",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Defining a Location",
+        "Create/Edit location Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/locationmanager/create-editlocationscreen.htm",
+      "urlPath": "/content/match/configurationmenu/locationmanager/create-editlocationscreen.htm",
+      "headings": [
+        "Create/Edit location Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Import Layouts",
+      "moduleName": "Defining a Location",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Defining a Location",
+        "Import Layouts"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/structured_import_layouts.htm",
+      "urlPath": "/content/match/tasksmenu/structured_import_layouts.htm",
+      "headings": [
+        "Structure Import Layouts",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Location details Screen",
+      "moduleName": "Defining a Location",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Defining a Location",
+        "Location details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/locationmanager/locationdetailsscreen.htm",
+      "urlPath": "/content/match/configurationmenu/locationmanager/locationdetailsscreen.htm",
+      "headings": [
+        "Location details Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Location Manager list Screen",
+      "moduleName": "Defining a Location",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Defining a Location",
+        "Location Manager list Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/locationmanager/locationmanagerlistscreen.htm",
+      "urlPath": "/content/match/configurationmenu/locationmanager/locationmanagerlistscreen.htm",
+      "headings": [
+        "Location Manager list Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Introducing Amortization/Depreciation",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/introducing_amortization_depreciation.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/introducing_amortization_depreciation.htm",
+      "headings": [
+        "Introducing Amortization/Depreciation",
+        "Links:"
+      ]
+    },
+    {
+      "title": "Basic Amortization Process",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/basics_amortization_process.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/basics_amortization_process.htm",
+      "headings": [
+        "Basic Amortization Process"
+      ]
+    },
+    {
+      "title": "Amortization Schedule Import Layout",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Amortization Schedule Import Layout"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/amortization_schedule_import_layout.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/amortization_schedule_import_layout.htm",
+      "headings": [
+        "Amortization Schedule Import Layout",
+        "Import Option #1",
+        "Import Option #2",
+        "DEF Record Type",
+        "SCH Record Type",
+        "GLA Record Type",
+        "DEF2 Record Type"
+      ]
+    },
+    {
+      "title": "Amortization/depreciation folders Screen",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Amortization/depreciation folders Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/amortizationdepreciationfolders.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/amortizationdepreciationfolders.htm",
+      "headings": [
+        "Amortization/depreciation folders Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Set folder permissions Dialog",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Amortization/depreciation folders Screen",
+        "Set folder permissions Dialog"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/setpermissionsdialog.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/setpermissionsdialog.htm",
+      "headings": [
+        "Set folder permissions Dialog",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Amortization/Depreciation schedules Screen",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Amortization/Depreciation schedules Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/amortizationdepreciationschedules.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/amortizationdepreciationschedules.htm",
+      "headings": [
+        "Amortization/Depreciation schedules Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Closing an Amortization Schedule",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Amortization/Depreciation schedules Screen",
+        "Closing an Amortization Schedule"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/closing_an_amortization_schedule.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/closing_an_amortization_schedule.htm",
+      "headings": [
+        "Close schedule Dialog"
+      ]
+    },
+    {
+      "title": "Before you Create your Amortization Schedule",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Before you Create your Amortization Schedule"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/before_you_create_your_amortization_schedule.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/before_you_create_your_amortization_schedule.htm",
+      "headings": [
+        "Before you Create your Amortization Schedule"
+      ]
+    },
+    {
+      "title": "Create/Edit Amortization/depreciation schedule Screen",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Create/Edit Amortization/depreciation schedule Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/createnew-editexistingamortizationschedulescreen.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/createnew-editexistingamortizationschedulescreen.htm",
+      "headings": [
+        "Create/Edit Amortization/depreciation schedule Screen"
+      ]
+    },
+    {
+      "title": "Making Additions/Deductions to an Approved Amortization Schedule",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Making Additions/Deductions to an Approved Amortization Schedule"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/makeadditionsdeductionsdialog.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/makeadditionsdeductionsdialog.htm",
+      "headings": [
+        "Make additions/deduction Dialog"
+      ]
+    },
+    {
+      "title": "Making Adjustments to an Approved Amortization Schedule",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "Making Adjustments to an Approved Amortization Schedule"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/makeadjustmentdialog.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/makeadjustmentdialog.htm",
+      "headings": [
+        "Make adjustment Dialog"
+      ]
+    },
+    {
+      "title": "View Amortization/depreciation schedule details Screen",
+      "moduleName": "Amortization/Depreciation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Introducing Amortization/Depreciation",
+        "Basic Amortization Process",
+        "View Amortization/depreciation schedule details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/amortizationdepreciation/amortizationdepreciationscheduledetailscreen.htm",
+      "urlPath": "/content/match/configurationmenu/amortizationdepreciation/amortizationdepreciationscheduledetailscreen.htm",
+      "headings": [
+        "View Amortization/depreciation schedule details Screen"
+      ]
+    },
+    {
+      "title": "Maintaining System Parameters",
+      "moduleName": "Maintaining System Parameters",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Maintaining System Parameters"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/generalsystemparameters/maintaining_system_parameters.htm",
+      "urlPath": "/content/match/configurationmenu/generalsystemparameters/maintaining_system_parameters.htm",
+      "headings": [
+        "Maintaining System Parameters",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Configure system parameters Screen",
+      "moduleName": "Maintaining System Parameters",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Maintaining System Parameters",
+        "Configure system parameters Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/generalsystemparameters/configuresystemparametersscreen.htm",
+      "urlPath": "/content/match/configurationmenu/generalsystemparameters/configuresystemparametersscreen.htm",
+      "headings": [
+        "Configure system parameters Screen"
+      ]
+    },
+    {
+      "title": "Understanding AutoMatching",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/understanding_automatching.htm",
+      "urlPath": "/content/match/reference/understanding_automatching.htm",
+      "headings": [
+        "Understanding AutoMatching"
+      ]
+    },
+    {
+      "title": "Combination Match Rules",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Combination Match Rules"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/combination_match_rules.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/combination_match_rules.htm",
+      "headings": [
+        "Combination Match Rules"
+      ]
+    },
+    {
+      "title": "Many-Many Matching",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Many-Many Matching"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/many-many_matching.htm",
+      "urlPath": "/content/match/reference/many-many_matching.htm",
+      "headings": [
+        "Many-Many Matching"
+      ]
+    },
+    {
+      "title": "Many-One Matching",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Many-One Matching"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/many-one_matching.htm",
+      "urlPath": "/content/match/reference/many-one_matching.htm",
+      "headings": [
+        "Many-One Matching"
+      ]
+    },
+    {
+      "title": "One-Many Matching",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "One-Many Matching"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/one-many_matching.htm",
+      "urlPath": "/content/match/reference/one-many_matching.htm",
+      "headings": [
+        "One-to-many Matching"
+      ]
+    },
+    {
+      "title": "Understanding Match Rules and Match Rule Sets",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Understanding Match Rules and Match Rule Sets"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/understanding_match_rules_and_match_rule_sets.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/understanding_match_rules_and_match_rule_sets.htm",
+      "headings": [
+        "Understanding Match Rules and Match Rule Sets",
+        "Multiple Match Rules",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Associating Match Rule Sets to an Account",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Understanding Match Rules and Match Rule Sets",
+        "Associating Match Rule Sets to an Account"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/associating_match_rule_sets_with_an_account.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/associating_match_rule_sets_with_an_account.htm",
+      "headings": [
+        "Associating Match Rule Sets with an Account"
+      ]
+    },
+    {
+      "title": "Create-Edit Match Rule Sets",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Understanding Match Rules and Match Rule Sets",
+        "Create a new Match Rule Set|Edit Match Rule Set Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/create-edit_a_match_rule_set.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/create-edit_a_match_rule_set.htm",
+      "headings": [
+        "Create a new Match Rule Set |Edit Match Rule Set Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create-Edit a Match Rule",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Understanding Match Rules and Match Rule Sets",
+        "Create-Edit a Match Rule"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/create-edit%20a%20match_rule.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/create-edit a match_rule.htm",
+      "headings": [
+        "Create a new match rule|Edit a match rule Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Match rule set detail view Screen",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Understanding Match Rules and Match Rule Sets",
+        "Match rule set detail view Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/matchrulesetdetailviewscreen.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/matchrulesetdetailviewscreen.htm",
+      "headings": [
+        "Match rule set detail view Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Match rules and sets Screen",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Understanding Match Rules and Match Rule Sets",
+        "Match rules and sets Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/matchrulesandsetsscreen.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/matchrulesandsetsscreen.htm",
+      "headings": [
+        "Match rules and sets Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Match rules detail view Screen",
+      "moduleName": "AutoMatching",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding AutoMatching",
+        "Understanding Match Rules and Match Rule Sets",
+        "Match rules detail view Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/matchrules-sets/matchrulesdetailviewscreen.htm",
+      "urlPath": "/content/match/configurationmenu/matchrules-sets/matchrulesdetailviewscreen.htm",
+      "headings": [
+        "Match rules detail view Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding Data Exports",
+      "moduleName": "Data Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Data Exports"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/dataexports/understanding_data_exports.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/dataexports/understanding_data_exports.htm",
+      "headings": [
+        "Understanding Data Exports",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Creating Subtotals with Velocity",
+      "moduleName": "Data Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Data Exports",
+        "Creating Subtotals with Velocity"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/configuration%20dashboard/creating_subtotals_with_velocity.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/configuration dashboard/creating_subtotals_with_velocity.htm",
+      "headings": [
+        "Creating Subtotals with Velocity"
+      ]
+    },
+    {
+      "title": "Managing Export Templates",
+      "moduleName": "Data Exports",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Data Exports",
+        "Managing Export Templates"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/configuration%20dashboard/managing_export_templates.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/configuration dashboard/managing_export_templates.htm",
+      "headings": [
+        "Managing Export Templates",
+        "Expert Mode"
+      ]
+    },
+    {
+      "title": "Understanding General Ledger Integration",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/understanding_general_ledger_transactions.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/understanding_general_ledger_transactions.htm",
+      "headings": [
+        "Understanding General Ledger Integration",
+        "Overview",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding Allocations of GL Adjustments",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/understanding_allocations_of_gl_adjustments.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/understanding_allocations_of_gl_adjustments.htm",
+      "headings": [
+        "Understanding Allocations of GL Adjustments",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "GL Integration Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/glintegrationscreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/glintegrationscreen.htm",
+      "headings": [
+        "GL Integration Screen"
+      ]
+    },
+    {
+      "title": "Create|Edit GL account number Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "Create|Edit GL account number Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/create-editglaccountnumberscreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/create-editglaccountnumberscreen.htm",
+      "headings": [
+        "Create|Edit GL account number Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create|Edit GL group Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "Create|Edit GL group Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/create-editglgroupscreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/create-editglgroupscreen.htm",
+      "headings": [
+        "Create|Edit GL group Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create|Edit GL Parameters Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "Create|Edit GL Parameters Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/create-editglparametersscreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/create-editglparametersscreen.htm",
+      "headings": [
+        "Create|Edit GL Parameters Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create|Edit intercompany company Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "Create|Edit intercompany company Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/create-editintercompanycompanyscreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/create-editintercompanycompanyscreen.htm",
+      "headings": [
+        "Create|Edit intercompany company Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Execute GL account update Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "Execute GL account update Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/executeglaccountupdatescreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/executeglaccountupdatescreen.htm",
+      "headings": [
+        "Execute GL account update Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "General Ledger Integration File Format",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "General Ledger Integration File Format"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/general_ledger_integration_file_format.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/general_ledger_integration_file_format.htm",
+      "headings": [
+        "General Ledger Integration File Format",
+        "GL Group Record Type",
+        "GL Parameter Record Type"
+      ]
+    },
+    {
+      "title": "GL Account Numbers File Formats",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "GL Account Numbers File Formats"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/gl_account_numbers_file_formats.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/gl_account_numbers_file_formats.htm",
+      "headings": [
+        "GL Account Numbers File Formats",
+        "Import File Layout"
+      ]
+    },
+    {
+      "title": "GL Export Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "GL Export Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/glexportscreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/glexportscreen.htm",
+      "headings": [
+        "GL Export Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "GL Export Task Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "GL Export Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/glexporttask.htm",
+      "urlPath": "/content/match/tasksmenu/glexporttask.htm",
+      "headings": [
+        "GL export Task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "GL Groups File Formats",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "GL Groups File Formats"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/gl_groups_file_formats.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/gl_groups_file_formats.htm",
+      "headings": [
+        "GL Groups File Formats"
+      ]
+    },
+    {
+      "title": "GL Parameters details Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "GL Parameters details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/glparametersdetailscreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/glparametersdetailscreen.htm",
+      "headings": [
+        "GL Parameters details Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "GL Parameters File Formats",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "GL Parameters File Formats"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/gl_parameters_file_formats.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/gl_parameters_file_formats.htm",
+      "headings": [
+        "GL Parameters File Formats"
+      ]
+    },
+    {
+      "title": "New|Edit intercompany route Screen",
+      "moduleName": "General Ledger Integration",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding General Ledger Integration",
+        "Understanding Allocations of GL Adjustments",
+        "GL Integration Screen",
+        "New|Edit intercompany route Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/glintegration/create-editintercompanyroutescreen.htm",
+      "urlPath": "/content/match/configurationmenu/glintegration/create-editintercompanyroutescreen.htm",
+      "headings": [
+        "New|Edit intercompany route Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding Operational Structures",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/understanding_operational_structures.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/understanding_operational_structures.htm",
+      "headings": [
+        "Understanding Operational Structures and Locations",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Associating Security rights within the Operational Structure",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Associating Security rights within the Operational Structure"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/associating_security_rights_within_the_operational_structure.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/associating_security_rights_within_the_operational_structure.htm",
+      "headings": [
+        "Associating Security rights within the Operational Structure"
+      ]
+    },
+    {
+      "title": "Edit hierarchy item Screen",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Edit hierarchy item Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/edit%20hierarchy%20item%20screen.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/edit hierarchy item screen.htm",
+      "headings": [
+        "Edit hierarchy item Screen"
+      ]
+    },
+    {
+      "title": "Edit operational hierarchy Screen",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Edit operational hierarchy Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/edit%20account-location%20hierarchy%20screen.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/edit account-location hierarchy screen.htm",
+      "headings": [
+        "Edit operational hierarchy Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Edit operational roles Screen",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Edit operational roles Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/editoperationalrolesscreen.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/editoperationalrolesscreen.htm",
+      "headings": [
+        "Edit operational roles Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Hierarchy Details Screen",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Hierarchy Details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/hierarchy%20detail%20screen.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/hierarchy detail screen.htm",
+      "headings": [
+        "Hierarchy Details Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Hierarchy Item Details Screen",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Hierarchy Item Details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/item%20detail%20screen.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/item detail screen.htm",
+      "headings": [
+        "Hierarchy Item Details Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Operational structures Screen",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Operational structures Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/operational%20structures%20screen.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/operational structures screen.htm",
+      "headings": [
+        "Operational structures Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Security access to the Operational Structure Manager and the Location Manager",
+      "moduleName": "Operational Structures",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Operational Structures",
+        "Security access to the Operational Structure Manager and the Location Manager"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/operationalstructuremanager/security_access_to_the_operational_structure_manager_and_the_location_manager.htm",
+      "urlPath": "/content/match/configurationmenu/operationalstructuremanager/security_access_to_the_operational_structure_manager_and_the_location_manager.htm",
+      "headings": [
+        "Security access to the Operational Structure Manager and the Location Manager"
+      ]
+    },
+    {
+      "title": "Understanding Reference Definitions",
+      "moduleName": "Reference Definitions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Reference Definitions"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/referencedefinitions/understanding_reference_definitions.htm",
+      "urlPath": "/content/match/configurationmenu/referencedefinitions/understanding_reference_definitions.htm",
+      "headings": [
+        "Understanding Reference Definitions",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create|Edit Reference definition Screen",
+      "moduleName": "Reference Definitions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Reference Definitions",
+        "Create|Edit Reference definition Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/referencedefinitions/create-editreferencedefinitionsscreen.htm",
+      "urlPath": "/content/match/configurationmenu/referencedefinitions/create-editreferencedefinitionsscreen.htm",
+      "headings": [
+        "Create|Edit Reference definition Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Reference definitions detail Screen",
+      "moduleName": "Reference Definitions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Reference Definitions",
+        "Reference definitions detail Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/referencedefinitions/referencedefinitionsdetailscreen.htm",
+      "urlPath": "/content/match/configurationmenu/referencedefinitions/referencedefinitionsdetailscreen.htm",
+      "headings": [
+        "Reference definitions detail Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Reference definitions Screen",
+      "moduleName": "Reference Definitions",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Match Configuration Dashboard",
+        "Understanding Reference Definitions",
+        "Reference definitions Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/referencedefinitions/referencedefinitionsscreen.htm",
+      "urlPath": "/content/match/configurationmenu/referencedefinitions/referencedefinitionsscreen.htm",
+      "headings": [
+        "Reference definitions Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Researching Exceptions",
+      "moduleName": "Advanced Features",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/exceptions/researching_exceptions.htm",
+      "urlPath": "/content/match/transactionsmenu/exceptions/researching_exceptions.htm",
+      "headings": [
+        "About the Transactions Dashboard",
+        "Match Transactions: Researching Exceptions"
+      ]
+    },
+    {
+      "title": "Create expert transaction criteria|Edit expert transaction criteria Screen",
+      "moduleName": "Create expert transaction criteria|Edit expert transaction criteria",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Create expert transaction criteria|Edit expert transaction criteria Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/transactioncriteria/create-editexperttransactioncriteriascreen.htm",
+      "urlPath": "/content/match/configurationmenu/transactioncriteria/create-editexperttransactioncriteriascreen.htm",
+      "headings": [
+        "Create expert transaction criteria|Edit expert transaction criteria Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create standard transaction criteria|Edit standard transaction criteria Screen",
+      "moduleName": "Create standard transaction criteria|Edit standard transaction criteria",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Create standard transaction criteria|Edit standard transaction criteria Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/transactioncriteria/create-edittransactioncriteriascreen.htm",
+      "urlPath": "/content/match/configurationmenu/transactioncriteria/create-edittransactioncriteriascreen.htm",
+      "headings": [
+        "Create standard transaction criteria|Edit standard transaction criteria Screen"
+      ]
+    },
+    {
+      "title": "The Transactions Dashboard",
+      "moduleName": "Transactions Dashboard",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "The Transactions Dashboard"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/thetransactionsdashboard.htm",
+      "urlPath": "/content/match/transactionsmenu/thetransactionsdashboard.htm",
+      "headings": [
+        "The Transactions Dashboard"
+      ]
+    },
+    {
+      "title": "Generating Exception Item Follow-up from SmartMatch",
+      "moduleName": "Transactions Dashboard",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "The Transactions Dashboard",
+        "Generating Exception Item Follow-up from SmartMatch"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/generating_exception_item_follow-up_from_smartmatch.htm",
+      "urlPath": "/content/match/reference/generating_exception_item_follow-up_from_smartmatch.htm",
+      "headings": [
+        "Generating Exception Item Follow-up from SmartMatch"
+      ]
+    },
+    {
+      "title": "More transaction criteria Screen",
+      "moduleName": "Transactions Dashboard",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "The Transactions Dashboard",
+        "More transaction criteria Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/smartmatchmoretransactioncriteriascreen.htm",
+      "urlPath": "/content/match/transactionsmenu/smartmatchmoretransactioncriteriascreen.htm",
+      "headings": [
+        "More transaction criteria Screen"
+      ]
+    },
+    {
+      "title": "SmartMatch Screen",
+      "moduleName": "Transactions Dashboard",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "The Transactions Dashboard",
+        "SmartMatch Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/smartmatch/smartmatchscreen.htm",
+      "urlPath": "/content/match/transactionsmenu/smartmatch/smartmatchscreen.htm",
+      "headings": [
+        "SmartMatch Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Viewing Linked Transactions on Reports",
+      "moduleName": "Transactions Dashboard",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "The Transactions Dashboard",
+        "Viewing Linked Transactions on Reports"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/viewing_linked_transactions_on_reports.htm",
+      "urlPath": "/content/match/reports/viewing_linked_transactions_on_reports.htm",
+      "headings": [
+        "Viewing Linked Transactions on Reports"
+      ]
+    },
+    {
+      "title": "Transaction criteria details Screen",
+      "moduleName": "Transaction criteria details",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Transaction criteria details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/transactioncriteria/transactioncriteriadetailsscreen.htm",
+      "urlPath": "/content/match/configurationmenu/transactioncriteria/transactioncriteriadetailsscreen.htm",
+      "headings": [
+        "Transaction criteria details Screen"
+      ]
+    },
+    {
+      "title": "Transaction criteria Screen",
+      "moduleName": "Transaction criteria",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Transaction criteria Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/transactioncriteria/transactioncriteriascreen.htm",
+      "urlPath": "/content/match/configurationmenu/transactioncriteria/transactioncriteriascreen.htm",
+      "headings": [
+        "Transaction criteria Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Transaction details Screen",
+      "moduleName": "Transaction details",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Transaction details Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/transactiondetailsscreen.htm",
+      "urlPath": "/content/match/transactionsmenu/transactiondetailsscreen.htm",
+      "headings": [
+        "Transaction details Screen"
+      ]
+    },
+    {
+      "title": "Transactions Search Screen",
+      "moduleName": "Transactions Search",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Transactions Search Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/search/transactionssearchscreen.htm",
+      "urlPath": "/content/match/transactionsmenu/search/transactionssearchscreen.htm",
+      "headings": [
+        "Transactions Search Screen"
+      ]
+    },
+    {
+      "title": "Understanding SmartResolve",
+      "moduleName": "SmartResolve",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding SmartResolve"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/smartresolveprocedures/understanding_smartresolve.htm",
+      "urlPath": "/content/match/configurationmenu/smartresolveprocedures/understanding_smartresolve.htm",
+      "headings": [
+        "Understanding SmartResolve",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Managing Procedures",
+      "moduleName": "SmartResolve",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding SmartResolve",
+        "Managing Procedures"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/smartresolveprocedures/managing_procedures.htm",
+      "urlPath": "/content/match/configurationmenu/smartresolveprocedures/managing_procedures.htm",
+      "headings": [
+        "Managing Procedures",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Create|Edit SmartResolve procedure Screen",
+      "moduleName": "SmartResolve",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding SmartResolve",
+        "Managing Procedures",
+        "Create|Edit SmartResolve procedure Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/smartresolveprocedures/create-editsmartresolveprocedurescreen.htm",
+      "urlPath": "/content/match/configurationmenu/smartresolveprocedures/create-editsmartresolveprocedurescreen.htm",
+      "headings": [
+        "Create|Edit SmartResolve procedure Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "SmartResolve procedures detail Screen",
+      "moduleName": "SmartResolve",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding SmartResolve",
+        "Managing Procedures",
+        "SmartResolve procedures detail Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/smartresolveprocedures/smartresoveproceduresdetailscreen.htm",
+      "urlPath": "/content/match/configurationmenu/smartresolveprocedures/smartresoveproceduresdetailscreen.htm",
+      "headings": [
+        "SmartResolve procedures detail Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "SmartResolve procedures Screen",
+      "moduleName": "SmartResolve",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding SmartResolve",
+        "Managing Procedures",
+        "SmartResolve procedures Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/smartresolveprocedures/smartresoveproceduresscreen.htm",
+      "urlPath": "/content/match/configurationmenu/smartresolveprocedures/smartresoveproceduresscreen.htm",
+      "headings": [
+        "SmartResolve procedures Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Researching Exceptions Automatically",
+      "moduleName": "SmartResolve",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding SmartResolve",
+        "Researching Exceptions Automatically"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/configurationmenu/smartresolveprocedures/researching_exceptions_automatically.htm",
+      "urlPath": "/content/match/configurationmenu/smartresolveprocedures/researching_exceptions_automatically.htm",
+      "headings": [
+        "Researching Exceptions Automatically"
+      ]
+    },
+    {
+      "title": "Understanding the Exception Manager",
+      "moduleName": "Exception Manager",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding the Exception Manager"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/exceptions/understanding_the_exception_manager.htm",
+      "urlPath": "/content/match/transactionsmenu/exceptions/understanding_the_exception_manager.htm",
+      "headings": [
+        "Understanding the Exception Manager",
+        "Exception Lists"
+      ]
+    },
+    {
+      "title": "Exception Identification",
+      "moduleName": "Exception Manager",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding the Exception Manager",
+        "Exception Identification"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/exceptions/exception_identification.htm",
+      "urlPath": "/content/match/transactionsmenu/exceptions/exception_identification.htm",
+      "headings": [
+        "Exception Identification"
+      ]
+    },
+    {
+      "title": "Exception Identification Task Screen",
+      "moduleName": "Exception Manager",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding the Exception Manager",
+        "Exception Identification Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/exceptionidentificationtaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/exceptionidentificationtaskscreen.htm",
+      "headings": [
+        "Exception Identification Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Exceptions Screen",
+      "moduleName": "Exception Manager",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "About the Transactions Dashboard",
+        "Understanding the Exception Manager",
+        "Exceptions Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/transactionsmenu/exceptions/exceptionsscreen.htm",
+      "urlPath": "/content/match/transactionsmenu/exceptions/exceptionsscreen.htm",
+      "headings": [
+        "Exceptions Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Daily reconciliations List Screen",
+      "moduleName": "Daily reconciliations List",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Daily reconciliations List Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/dailyreconciliations/dailyreconciliationslistscreen.htm",
+      "urlPath": "/content/match/dailyreconciliations/dailyreconciliationslistscreen.htm",
+      "headings": [
+        "Daily reconciliations List Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Running a Match Reconciliation",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/the%20gl%20reconciliaiton%20calc%20task.htm",
+      "urlPath": "/content/match/reference/the gl reconciliaiton calc task.htm",
+      "headings": [
+        "Running a Match Reconciliation"
+      ]
+    },
+    {
+      "title": "Completed Reconciliations Screen",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Completed Reconciliations"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationuser/completed_reconciliations.htm",
+      "urlPath": "/content/certificationuser/completed_reconciliations.htm",
+      "headings": [
+        "Completed Reconciliations Screen"
+      ]
+    },
+    {
+      "title": "Mapping a Match Reconciliation",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Mapping a Match Reconciliation"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/mapping%20a%20match%20reconciliation.htm",
+      "urlPath": "/content/match/reference/mapping a match reconciliation.htm",
+      "headings": [
+        "Mapping a Match Reconciliation"
+      ]
+    },
+    {
+      "title": "Reconciliation Detail Component Detail Screen",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Reconciliation Detail Component Detail Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/management/configuration/template%20configurations/reconciliationdetailcomponentscreen.htm",
+      "urlPath": "/content/certificationadmin/management/configuration/template configurations/reconciliationdetailcomponentscreen.htm",
+      "headings": [
+        "Reconciliation Detail Component Detail Screen"
+      ]
+    },
+    {
+      "title": "Reconciliation Detail Screen",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Reconciliation Detail Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationuser/reference/rec_preprevapp.htm",
+      "urlPath": "/content/certificationuser/reference/rec_preprevapp.htm",
+      "headings": [
+        "Reconciliation Detail Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Reconciliation Detail Type Mapping Fields Screen",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Reconciliation Detail Type Mapping Fields Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationadmin/management/configuration/template%20configurations/reconciliationdetailtypemappingfieldsscreen.htm",
+      "urlPath": "/content/certificationadmin/management/configuration/template configurations/reconciliationdetailtypemappingfieldsscreen.htm",
+      "headings": [
+        "Reconciliation Detail Type Mapping Fields Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Reconciling Items and Balances",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Reconciling Items and Balances"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/exporting%20reconciling%20items%20and%20balances.htm",
+      "urlPath": "/content/match/reference/exporting reconciling items and balances.htm",
+      "headings": [
+        "Reconciling Items and Balances"
+      ]
+    },
+    {
+      "title": "Reconciling Items Component (GL)",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Reconciling Items Component (GL)"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationuser/reconciling_items_component__gl_.htm",
+      "urlPath": "/content/certificationuser/reconciling_items_component__gl_.htm",
+      "headings": [
+        "Reconciling Items Component (GL)",
+        "Buttons/Links"
+      ]
+    },
+    {
+      "title": "Reconciling Items Subledger Component",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Reconciling Items Subledger Component"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/certificationuser/reconciling_items_subledger_comp.htm",
+      "urlPath": "/content/certificationuser/reconciling_items_subledger_comp.htm",
+      "headings": [
+        "Reconciling Items Subledger Component",
+        "Buttons/Links"
+      ]
+    },
+    {
+      "title": "Running a Reconciliation for a Match Account",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Running a Reconciliation for a Match Account"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reference/running%20a%20reconciliation%20for%20a%20match%20account.htm",
+      "urlPath": "/content/match/reference/running a reconciliation for a match account.htm",
+      "headings": [
+        "Running a Reconciliation for a Match Account",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Viewing Reconciliation Task Results in Match",
+      "moduleName": "Running a Match Reconciliation",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Running a Match Reconciliation",
+        "Viewing Reconciliation Task Results in Match"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/viewing%20the%20gl%20reconciliation%20calc%20task%20results.htm",
+      "urlPath": "/content/match/tasksmenu/viewing the gl reconciliation calc task results.htm",
+      "headings": [
+        "Viewing Reconciliation Task Results in Match"
+      ]
+    },
+    {
+      "title": "Understanding Check Range Processing",
+      "moduleName": "Check Range Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Check Range Processing"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpopenmenu/understanding_check_range_processing_in_t-recs_enterprise.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpopenmenu/understanding_check_range_processing_in_t-recs_enterprise.htm",
+      "headings": [
+        "Understanding Check Range Processing in Match"
+      ]
+    },
+    {
+      "title": "Check Range Processing Wizard Screen",
+      "moduleName": "Check Range Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Check Range Processing",
+        "Check Range Processing Wizard Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpopenmenu/check_range_processing.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpopenmenu/check_range_processing.htm",
+      "headings": [
+        "Check Range Processing Wizard Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Processing an Issue on a Range of Checks",
+      "moduleName": "Check Range Processing",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Check Range Processing",
+        "Processing an Issue on a Range of Checks"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpopenmenu/processing_an_issue_on_a_range_of_checks.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpopenmenu/processing_an_issue_on_a_range_of_checks.htm",
+      "headings": [
+        "Processing an Issue on a Range of Checks"
+      ]
+    },
+    {
+      "title": "Understanding Reporting in Match",
+      "moduleName": "Reporting in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Reporting in Match"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/understading_match_reporting.htm",
+      "urlPath": "/content/match/reports/understading_match_reporting.htm",
+      "headings": [
+        "Understanding Reporting in Match",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Levels of Reporting in Match",
+      "moduleName": "Reporting in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Reporting in Match",
+        "Levels of Reporting"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/levels_of_reporting.htm",
+      "urlPath": "/content/match/reports/levels_of_reporting.htm",
+      "headings": [
+        "Levels of Reporting",
+        "User interface reporting",
+        "Standard template reporting",
+        "Integrated custom reporting",
+        "External custom reporting"
+      ]
+    },
+    {
+      "title": "Legacy reports list Screen",
+      "moduleName": "Reporting in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Reporting in Match",
+        "Levels of Reporting",
+        "Legacy reports list Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/legacyreportsscreen.htm",
+      "urlPath": "/content/match/reports/legacyreportsscreen.htm",
+      "headings": [
+        "Legacy reports list Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Running a Match report from the report builder",
+      "moduleName": "Reporting in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Reporting in Match",
+        "Levels of Reporting",
+        "Running a Match report from the report builder"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/runningamatchreport.htm",
+      "urlPath": "/content/match/reports/runningamatchreport.htm",
+      "headings": [
+        "Running a Match report from the report builder"
+      ]
+    },
+    {
+      "title": "Standard reports Screen",
+      "moduleName": "Reporting in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Reporting in Match",
+        "Levels of Reporting",
+        "Standard reports Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/standardreportsdashboard.htm",
+      "urlPath": "/content/match/reports/standardreportsdashboard.htm",
+      "headings": [
+        "Standard reports Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Match Reports",
+      "moduleName": "Reporting in Match",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Reporting in Match",
+        "Match Reports"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/match-reports.htm",
+      "urlPath": "/content/match/reports/match-reports.htm",
+      "headings": [
+        "Match Reports"
+      ]
+    },
+    {
+      "title": "Understanding Tasks",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/understanding_tasks.htm",
+      "urlPath": "/content/match/tasksmenu/understanding_tasks.htm",
+      "headings": [
+        "Understanding Tasks",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Execute ACH",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "ACH task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/achtaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/achtaskscreen.htm",
+      "headings": [
+        "ACH task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Archive task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Archive task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/archivetaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/archivetaskscreen.htm",
+      "headings": [
+        "Archive task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "AutoMatching Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "AutoMatching Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/automatchingtaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/automatchingtaskscreen.htm",
+      "headings": [
+        "AutoMatching Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Batch Export Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Batch Export Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/batchexporttaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/batchexporttaskscreen.htm",
+      "headings": [
+        "Batch Export Task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Batch Import Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Batch Import Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/batchimporttaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/batchimporttaskscreen.htm",
+      "headings": [
+        "Batch Import Task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Defining and Maintaining Bundled Tasks",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Bundled task group process Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/bundledtaskgroupprocess.htm",
+      "urlPath": "/content/match/tasksmenu/bundledtaskgroupprocess.htm",
+      "headings": [
+        "Bundled task group process Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Custom Report Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Custom Report Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/customreportscreen.htm",
+      "urlPath": "/content/match/tasksmenu/customreportscreen.htm",
+      "headings": [
+        "Custom Report Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Daily Reconciliation Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Daily Reconciliation Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/daily%20reconciliationtaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/daily reconciliationtaskscreen.htm",
+      "headings": [
+        "Daily Reconciliation Task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Defining and Maintaining Bundled Tasks",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Defining and Maintaining Bundled Tasks"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/understandingbundledtasks.htm",
+      "urlPath": "/content/match/tasksmenu/understandingbundledtasks.htm",
+      "headings": [
+        "Defining and Maintaining Bundled Tasks"
+      ]
+    },
+    {
+      "title": "Exception Identification Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Exception Identification Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/exceptionidentificationtaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/exceptionidentificationtaskscreen.htm",
+      "headings": [
+        "Exception Identification Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Execute Custom Process",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Execute Custom Process Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/executecustomprocesstaskscreen.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/executecustomprocesstaskscreen.htm",
+      "headings": [
+        "Execute Custom Process Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Setting up a One-Time Export Task",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Export task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/exporttaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/exporttaskscreen.htm",
+      "headings": [
+        "Export task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "External Process Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "External Process Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/externalprocesstaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/externalprocesstaskscreen.htm",
+      "headings": [
+        "External process Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "GL Account Update",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "GL Account Update"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/glaccountupdatetask.htm",
+      "urlPath": "/content/match/tasksmenu/glaccountupdatetask.htm",
+      "headings": [
+        "Execute GL account update task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "GL Export Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "GL Export Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/glexporttask.htm",
+      "urlPath": "/content/match/tasksmenu/glexporttask.htm",
+      "headings": [
+        "GL export Task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Pay return export task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Pay return export task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/payreturnexporttaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/payreturnexporttaskscreen.htm",
+      "headings": [
+        "Pay return export task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Pay Return Import Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Pay Return Import Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/payreturnimporttaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/payreturnimporttaskscreen.htm",
+      "headings": [
+        "Pay return import task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "SmartResolve Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "SmartResolve Task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/smartresolvetaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/smartresolvetaskscreen.htm",
+      "headings": [
+        "SmartResolve Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Task History Filters Dialog",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Task History Filters Dialog"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/taskshistoryfilters.htm",
+      "urlPath": "/content/match/tasksmenu/taskshistoryfilters.htm",
+      "headings": [
+        "Task History Filters Dialog"
+      ]
+    },
+    {
+      "title": "Tasks results Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Tasks results Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/taskresultscreen.htm",
+      "urlPath": "/content/match/tasksmenu/taskresultscreen.htm",
+      "headings": [
+        "Task Result Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Tasks Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Tasks Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/tasksscreen.htm",
+      "urlPath": "/content/match/tasksmenu/tasksscreen.htm",
+      "headings": [
+        "Tasks Screen"
+      ]
+    },
+    {
+      "title": "Exception Identification Task Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Transaction risk task Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/transactionrisktaskscreen.htm",
+      "urlPath": "/content/match/tasksmenu/transactionrisktaskscreen.htm",
+      "headings": [
+        "Transaction risk task Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Undo Batch Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Undo by account Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/undobyacctscreen.htm",
+      "urlPath": "/content/match/tasksmenu/undobyacctscreen.htm",
+      "headings": [
+        "Undo by account Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Undo Batch Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Undo by batch Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/undobybatchscreen.htm",
+      "urlPath": "/content/match/tasksmenu/undobybatchscreen.htm",
+      "headings": [
+        "Undo by batch Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Undo Batch Screen",
+      "moduleName": "Tasks",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding Tasks",
+        "Undo Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/tasksmenu/undoscreen.htm",
+      "urlPath": "/content/match/tasksmenu/undoscreen.htm",
+      "headings": [
+        "Undo Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Understanding the Manage Dashboard",
+      "moduleName": "Advanced Features",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding the Manage Dashboard"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/managemenu/understanding%20the%20manage%20dashboard.htm",
+      "urlPath": "/content/match/managemenu/understanding the manage dashboard.htm",
+      "headings": [
+        "Understanding the Manage Dashboard",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Correcting Adjusted Balance Errors",
+      "moduleName": "Balance control",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding the Manage Dashboard",
+        "Balance control Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/managemenu/balancecontrolscreen.htm",
+      "urlPath": "/content/match/managemenu/balancecontrolscreen.htm",
+      "headings": [
+        "Balance control Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Common Errors when Importing Data",
+      "moduleName": "Common Errors when Importing Data",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding the Manage Dashboard",
+        "Common Errors when Importing Data"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/matchrcp/match%20rcp/rcpadvancedfeatures/launchtasks/dataimports/common_error_when_importing_data.htm",
+      "urlPath": "/content/match/matchrcp/match rcp/rcpadvancedfeatures/launchtasks/dataimports/common_error_when_importing_data.htm",
+      "headings": [
+        "Common Errors when Importing Data"
+      ]
+    },
+    {
+      "title": "Create batch|Edit batch Screen",
+      "moduleName": "Create batch|Edit batch",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding the Manage Dashboard",
+        "Create batch|Edit batch Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/managemenu/create-edittransactioncontrolbatchscreen.htm",
+      "urlPath": "/content/match/managemenu/create-edittransactioncontrolbatchscreen.htm",
+      "headings": [
+        "Create batch|Edit batch Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Transaction Control Screen",
+      "moduleName": "Transaction Control",
+      "tocPath": [
+        "Match",
+        "Advanced Features",
+        "Understanding the Manage Dashboard",
+        "Transaction Control Screen"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/managemenu/transactioncontrolscreen.htm",
+      "urlPath": "/content/match/managemenu/transactioncontrolscreen.htm",
+      "headings": [
+        "Transaction Control Screen",
+        "Related Topics"
+      ]
+    },
+    {
+      "title": "Match Reports",
+      "moduleName": "Reports",
+      "tocPath": [
+        "Reporting",
+        "About Reporting",
+        "Available Reports",
+        "Match Reports"
+      ],
+      "sourceUrl": "https://cadencyhelp.lower.trintech.com/edinburgh/content/match/reports/match-reports.htm",
+      "urlPath": "/content/match/reports/match-reports.htm",
+      "headings": [
+        "Match Reports"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "browser": {
+    "browserName": "chromium",
+    "userDataDir": ".playwright-mcp/profile",
+    "launchOptions": {
+      "headless": false,
+      "channel": "chrome"
+    },
+    "contextOptions": {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      }
+    }
+  },
+  "capabilities": [
+    "core",
+    "vision"
+  ],
+  "saveSession": true,
+  "saveTrace": true,
+  "outputDir": ".playwright-mcp/output"
+}

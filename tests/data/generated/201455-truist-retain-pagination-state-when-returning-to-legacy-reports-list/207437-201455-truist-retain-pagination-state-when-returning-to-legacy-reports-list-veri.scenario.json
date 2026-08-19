@@ -1,0 +1,83 @@
+{
+  "workItemId": 201455,
+  "suiteId": 204879,
+  "testPlanId": 191930,
+  "project": "Cadency",
+  "workbookPath": "C:\\Users\\bsaikiran\\STLCFlow Copy\\STLCFlow\\artifacts\\generated-excel\\TRUIST-Retain Pagination State When Returning to Legacy Reports List.xlsx",
+  "generatedAt": "2026-06-18T15:11:41.022Z",
+  "scenario": {
+    "caseOrdinal": 3,
+    "key": "207437-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+    "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page size is retained after Duplicate action",
+    "testCaseId": 207437,
+    "tags": [
+      "@ui",
+      "@generated",
+      "@story-201455",
+      "@suite-204879",
+      "@plan-191930",
+      "@tc-207437"
+    ],
+    "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+    "scenarioTitle": "207437: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page size is retained after Duplicate action",
+    "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+    "lookupTokens": [
+      "tc:207437",
+      "207437",
+      "story:201455",
+      "suite:204879",
+      "plan:191930",
+      "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page size is retained after Duplicate action"
+    ],
+    "navigationPath": "Reports > Legacy Reports",
+    "manualSteps": [
+      {
+        "action": "Login to Match.",
+        "expected": "User is logged in successfully."
+      },
+      {
+        "action": "Click on Reports and select Legacy Reports.",
+        "expected": "Legacy Reports list view opens and the available reports are displayed."
+      },
+      {
+        "action": "Change the page size in Legacy Reports list. Example: 25.",
+        "expected": "Selected page size is applied to the Legacy Reports list."
+      },
+      {
+        "action": "Click Actions for any report and select Duplicate.",
+        "expected": "Duplicate screen or popup loads successfully."
+      },
+      {
+        "action": "Select System folder and click Save.",
+        "expected": "Selected report is duplicated successfully and Legacy Reports list returns."
+      },
+      {
+        "action": "Verify the Legacy Reports list retains the selected page size after the Duplicate action.",
+        "expected": "Legacy Reports list retains the selected page size after completing the Duplicate action."
+      }
+    ],
+    "executionSteps": [
+      {
+        "kind": "login"
+      },
+      {
+        "kind": "gotoLegacyReports"
+      },
+      {
+        "kind": "legacyReportsSetPageSize",
+        "value": "25"
+      },
+      {
+        "kind": "legacyReportsSelectAction",
+        "value": "Duplicate"
+      },
+      {
+        "kind": "legacyReportsCompleteFolderAction",
+        "value": "System"
+      },
+      {
+        "kind": "legacyReportsAssertRetainedState"
+      }
+    ]
+  }
+}

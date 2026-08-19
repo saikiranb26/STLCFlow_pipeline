@@ -1,0 +1,37 @@
+{
+  "name": "stlcflow",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agentic QA and automation workflow scaffold for Azure DevOps, Playwright, and Allure.",
+  "type": "commonjs",
+  "scripts": {
+    "automation:auth": "tsx tests/utils/bootstrap-auth.ts",
+    "automation:bddgen": "bddgen",
+    "automation:generate-story": "tsx src/generate-story-automation-cli.ts",
+    "automation:execute-story": "tsx src/execute-story-cli.ts",
+    "workflow:playwright": "node scripts/run-workflow-playwright.cjs",
+    "knowledge:harvest-match-help": "node scripts/harvest-match-help.mjs",
+    "automation:test": "playwright test",
+    "automation:test:headed": "playwright test --headed",
+    "automation:test:framework": "npm run automation:bddgen && playwright test --grep @framework",
+    "smoke:inference": "tsx scripts/smoke-scenario-inference.ts",
+    "automation:report": "node scripts/generate-allure-report.js",
+    "automation:report:serve": "node scripts/serve-allure-report.js",
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx src/cli.ts",
+    "start": "node dist/cli.js",
+    "check": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^24.0.0",
+    "allure": "^3.8.2",
+    "allure-playwright": "^3.9.0",
+    "playwright-bdd": "^8.5.1",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

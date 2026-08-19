@@ -1,0 +1,312 @@
+{
+  "generatedDate": "2026-05-24",
+  "sourceOfTruth": "Azure DevOps MCP",
+  "project": "Cadency",
+  "guardrails": [
+    "Reference suites are used for style, coverage patterns, validations, and domain behavior only.",
+    "Generated testcases must be freshly written for the current story and must not copy-paste old testcase content.",
+    "Current story requirements take precedence over any historical testcase wording."
+  ],
+  "prioritySuites": [
+    {
+      "planId": 6357,
+      "suiteId": 176767,
+      "name": "Tasks - Recurring",
+      "root": "6357/70798/164203",
+      "domain": "Match",
+      "knowledgeRole": "best manual-writing reference for recurring task stories",
+      "observedPatterns": [
+        "enable and disable behavior for parent, child, and no-child tasks",
+        "single action versus bulk action coverage",
+        "scheduler list behavior and task history",
+        "save, execution, post-completion behavior, and sector security",
+        "recurring task type visibility checks"
+      ],
+      "sampleCaseTitles": [
+        "166853 Recurring Tasks - Enable and Disable - Task without child task - Single action Enable Disable",
+        "166853 Recurring Tasks - Enable and Disable - Parent task - Single action Enable Disable",
+        "200541 - Save",
+        "200541 - Execution",
+        "197711 - Recurring Tasks - Can not view a scheduled task if you do not have access to the sector",
+        "201689 Remove Unsupported Task Types from Recurring Tasks and Keep Custom Process in Launch Task - Recurring Task options"
+      ]
+    },
+    {
+      "planId": 6357,
+      "suiteId": 182496,
+      "name": "Batch Import Defintion",
+      "root": "6357/70798/164203",
+      "domain": "Match Admin",
+      "knowledgeRole": "best manual-writing reference for batch import definition and admin list-detail security stories",
+      "observedPatterns": [
+        "list view and tab landing behavior",
+        "column order, sorting, paging, and actions menu coverage",
+        "count verification against DB-backed expectations",
+        "security-profile access restrictions",
+        "row-level add and remove behavior in definition grids",
+        "delete restrictions when definitions are associated with recurring tasks"
+      ],
+      "sampleCaseTitles": [
+        "87038 - Batch Import Definition - List View",
+        "87038 - Batch Import Definition - Sort",
+        "87038 - Batch Import Definition - Verify Count",
+        "87038 - Batch Import Definition - Security - No Access to Custom Import Definition AND Export Templates",
+        "127352 : Batch Import Definition - New/Edit/Duplicate - Scroll to next",
+        "127354 : Batch Import Definition - Delete - Associate name not delete"
+      ]
+    },
+    {
+      "planId": 6357,
+      "suiteId": 122313,
+      "name": "Tasks",
+      "root": "6357/70798/122298",
+      "domain": "Match",
+      "knowledgeRole": "strong automation-oriented task history and launch-task feature source",
+      "observedPatterns": [
+        "task history list-view validation",
+        "filter and completion status behavior",
+        "launch task options and security restrictions",
+        "task-specific modal validation such as SmartResolve and Automatching"
+      ],
+      "sampleCaseTitles": [
+        "Task history list view validation",
+        "Launch task option visibility",
+        "Completion status filter behavior"
+      ]
+    },
+    {
+      "planId": 6357,
+      "suiteId": 122299,
+      "name": "Match Rules and Sets",
+      "root": "6357/70798/122298",
+      "domain": "Match",
+      "knowledgeRole": "feature behavior source for rules and set management",
+      "observedPatterns": [
+        "list view coverage",
+        "actions menu behavior",
+        "duplicate, edit, and delete behavior",
+        "rule-to-set relationship checks",
+        "description-field regression coverage"
+      ],
+      "sampleCaseTitles": [
+        "list view",
+        "actions",
+        "duplicate, edit, delete",
+        "rule set relationship validation"
+      ]
+    },
+    {
+      "planId": 6357,
+      "suiteId": 149279,
+      "name": "TDL Tasks",
+      "root": "6357/149176",
+      "domain": "TDL",
+      "knowledgeRole": "primary TDL task behavior corpus",
+      "observedPatterns": [
+        "launch task options",
+        "task result viewing and back-to-list behavior",
+        "task-history columns and sorting",
+        "filters and completion status values",
+        "action restrictions such as no undo on specific task types",
+        "long-name truncation and hover behavior in task results"
+      ],
+      "sampleCaseTitles": [
+        "TDL - Tasks - Launch Task Options",
+        "TDL - Tasks - View Details",
+        "TDL - Tasks - Validate Actions - Can not undo",
+        "TDL - 52799 - SCH Task List View - Task History",
+        "TDL - 52800 -SCH Scheduler Task History Filters - Validate Completion status",
+        "TDL - 122223 - SCH - Task Result Table  -  Task Name Mouse Over"
+      ]
+    },
+    {
+      "planId": 6357,
+      "suiteId": 149237,
+      "name": "TDL Transaction Criteria",
+      "root": "6357/149176",
+      "domain": "TDL",
+      "knowledgeRole": "criteria-management and SmartResolve-constraint coverage",
+      "observedPatterns": [
+        "delete restrictions when linked to SmartResolve",
+        "private versus public criteria behavior",
+        "matched-by-user operator coverage",
+        "expert conversion edge behavior"
+      ],
+      "sampleCaseTitles": [
+        "criteria delete restrictions",
+        "private/public transaction criteria",
+        "matched by user criteria behavior"
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 195757,
+      "name": "186194 : Recurring Tasks - Batch import - QA Only",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "latest-release recurring batch import writing pattern",
+      "observedPatterns": [
+        "verify task type availability in new recurring task modal",
+        "verify story-specific task configuration options",
+        "cancel behavior",
+        "schedule/save behavior",
+        "save and run behavior from scheduler"
+      ],
+      "sampleCaseTitles": [
+        "186194  Verify Batch import is available in New recurring task",
+        "186194  Verify Batch import task configuration options",
+        "186194  Verify cancel closes the Batch import configuration",
+        "186194  Verify Batch import task can be scheduled",
+        "186194  Verify Batch import task can be saved and run"
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 197407,
+      "name": "190446 : Recurring Tasks - Structure Import - QA Only",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "latest recurring structure import reference",
+      "observedPatterns": [
+        "task-parameter list view as a dedicated testcase",
+        "weekly recurrence pattern",
+        "save parent, cancel, save child, and run coverage"
+      ],
+      "sampleCaseTitles": [
+        "List view (Task Parameter)",
+        "Save Run now.",
+        "Save child task."
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 200016,
+      "name": "190444 : Recurring Tasks - Pay Return Import - QA Only",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "latest recurring pay return import reference",
+      "observedPatterns": [
+        "minimal required list-view coverage",
+        "save parent and save child coverage",
+        "cancel and discard behavior",
+        "required import-file validation"
+      ],
+      "sampleCaseTitles": [
+        "List view (Task Parameter)",
+        "Save parent task",
+        "Cancel / discard",
+        "Save child task"
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 202457,
+      "name": "190443 : Recurring Tasks - Pay Return Export - QA Only",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "latest recurring pay return export reference",
+      "observedPatterns": [
+        "operational-structure, account, and export-file parameter coverage",
+        "parent and child save flows",
+        "result-page verification",
+        "rerun with export-previously-exported toggled",
+        "account and export-file validations"
+      ],
+      "sampleCaseTitles": [
+        "List view (Task Parameter)",
+        "Save Run now.",
+        "Result page verification",
+        "Rerun with checkbox changed"
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 200760,
+      "name": "195511 : Recurring Tasks - Results - QA Only",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "results and notification behavior source",
+      "observedPatterns": [
+        "recipients list behavior",
+        "email alert options",
+        "post-completion execution controls",
+        "language dropdown coverage"
+      ],
+      "sampleCaseTitles": [
+        "Recipients list",
+        "Email alert options",
+        "Language dropdown"
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 200550,
+      "name": "191473 : Recurring Tasks - Bundled task group process - QA Only",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "bundled task group behavior source",
+      "observedPatterns": [
+        "bundled option visibility",
+        "selected-versus-available dual-list behavior",
+        "recurrence, sector, and results shell coverage",
+        "save, cancel, and run"
+      ],
+      "sampleCaseTitles": [
+        "Bundled option visibility",
+        "Add/remove bundled tasks",
+        "Save Run now."
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 203554,
+      "name": "200541 : Add Post-Completion Execution Options to Recurring Tasks",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "conditional execution and parameter-list behavior source",
+      "observedPatterns": [
+        "after-completion toggle enablement",
+        "file-path required validation",
+        "parameter add, remove, and search behavior",
+        "regardless-of-outcome versus on-failure versus on-success coverage",
+        "save and execution retention"
+      ],
+      "sampleCaseTitles": [
+        "200541 - Save",
+        "200541 - Execution"
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 203846,
+      "name": "197711 : Recurring Tasks - Can not view a scheduled task if you do not have access to the sector",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "sector-based restricted-view behavior source",
+      "observedPatterns": [
+        "restricted users only see View in actions",
+        "detail controls are read-only",
+        "action controls are disabled in view mode"
+      ],
+      "sampleCaseTitles": [
+        "197711 - Recurring Tasks - Can not view a scheduled task if you do not have access to the sector"
+      ]
+    },
+    {
+      "planId": 191930,
+      "suiteId": 203942,
+      "name": "201689 : Remove Unsupported Task Types from Recurring Tasks and Keep Custom Process in Launch Task",
+      "root": "191930",
+      "domain": "Match Latest Release",
+      "knowledgeRole": "task-type list pruning source",
+      "observedPatterns": [
+        "recurring-task dropdown option pruning",
+        "launch-task versus recurring-task option differentiation",
+        "task-type inventory assertions written as a dedicated list-view style testcase"
+      ],
+      "sampleCaseTitles": [
+        "201689 Remove Unsupported Task Types from Recurring Tasks and Keep Custom Process in Launch Task - Recurring Task options"
+      ]
+    }
+  ]
+}

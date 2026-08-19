@@ -1,0 +1,110 @@
+{
+  "workItemId": 201455,
+  "suiteId": 204879,
+  "testPlanId": 191930,
+  "generatedAt": "2026-06-18T15:11:41.022Z",
+  "entries": [
+    {
+      "caseOrdinal": 1,
+      "testCaseId": 207435,
+      "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify Actions menu options are displayed for a report",
+      "scenarioKey": "207435-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+      "scenarioTitle": "207435: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify Actions menu options are displayed for a report",
+      "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+      "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+      "lookupTokens": [
+        "tc:207435",
+        "207435",
+        "story:201455",
+        "suite:204879",
+        "plan:191930",
+        "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify Actions menu options are displayed for a report"
+      ]
+    },
+    {
+      "caseOrdinal": 2,
+      "testCaseId": 207436,
+      "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number is retained after Move action",
+      "scenarioKey": "207436-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+      "scenarioTitle": "207436: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number is retained after Move action",
+      "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+      "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+      "lookupTokens": [
+        "tc:207436",
+        "207436",
+        "story:201455",
+        "suite:204879",
+        "plan:191930",
+        "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number is retained after Move action"
+      ]
+    },
+    {
+      "caseOrdinal": 3,
+      "testCaseId": 207437,
+      "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page size is retained after Duplicate action",
+      "scenarioKey": "207437-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+      "scenarioTitle": "207437: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page size is retained after Duplicate action",
+      "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+      "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+      "lookupTokens": [
+        "tc:207437",
+        "207437",
+        "story:201455",
+        "suite:204879",
+        "plan:191930",
+        "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page size is retained after Duplicate action"
+      ]
+    },
+    {
+      "caseOrdinal": 4,
+      "testCaseId": 207438,
+      "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number and page size are retained after Delete action",
+      "scenarioKey": "207438-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+      "scenarioTitle": "207438: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number and page size are retained after Delete action",
+      "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+      "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+      "lookupTokens": [
+        "tc:207438",
+        "207438",
+        "story:201455",
+        "suite:204879",
+        "plan:191930",
+        "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify page number and page size are retained after Delete action"
+      ]
+    },
+    {
+      "caseOrdinal": 5,
+      "testCaseId": 207439,
+      "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify current page and page size are not reset after Download action",
+      "scenarioKey": "207439-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+      "scenarioTitle": "207439: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify current page and page size are not reset after Download action",
+      "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+      "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+      "lookupTokens": [
+        "tc:207439",
+        "207439",
+        "story:201455",
+        "suite:204879",
+        "plan:191930",
+        "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify current page and page size are not reset after Download action"
+      ]
+    },
+    {
+      "caseOrdinal": 6,
+      "testCaseId": 207440,
+      "title": "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify browser Back and Forward retain selected page and page size",
+      "scenarioKey": "207440-201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list-veri",
+      "scenarioTitle": "207440: 201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify browser Back and Forward retain selected page and page size",
+      "featureFile": "tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature",
+      "generatedSpecFile": ".features-gen/tests/bdd/features/generated/201455-truist-retain-pagination-state-when-returning-to-legacy-reports-list/story-201455-suite-204879.feature.spec.js",
+      "lookupTokens": [
+        "tc:207440",
+        "207440",
+        "story:201455",
+        "suite:204879",
+        "plan:191930",
+        "201455 TRUIST-Retain Pagination State When Returning to Legacy Reports List - Verify browser Back and Forward retain selected page and page size"
+      ]
+    }
+  ]
+}
