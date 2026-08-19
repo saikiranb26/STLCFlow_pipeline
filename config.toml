@@ -1,0 +1,46 @@
+model = "gpt-5.5"
+model_reasoning_effort = "xhigh"
+
+windows_wsl_setup_acknowledged = true
+ 
+[projects.'\\?\C:\Users\bsaikiran\AdoMCPtestcasesUpload']
+trust_level = "trusted"
+
+[projects.'\\?\C:\Users\bsaikiran\STLCFlow Copy\STLCFlow']
+trust_level = "trusted"
+ 
+[projects.'C:\Users\bsaikiran']
+trust_level = "trusted"
+
+[mcp_servers.ado]
+command = "npx"
+args = ["-y", "@azure-devops/mcp", "trintech-coe", "--authentication", "envvar"]
+env = { AZURE_DEVOPS_ORG_URL = "https://trintech-coe.visualstudio.com/Cadency", AZURE_DEVOPS_AUTH_METHOD = "pat", ADO_MCP_AUTH_TOKEN = "46keTlFa4389X15U1vzyYj9KGRhOUjGJpgsjMwtNPWo2eJ23elMmJQQJ99CEACAAAAASGNtUAAASAZDO3Sdq", AZURE_DEVOPS_DEFAULT_PROJECT = "Cadency", AZURE_DEVOPS_API_VERSION = "7.0", AZURE_DEVOPS_LOG_LEVEL = "info" }
+
+[mcp_servers.ado.tools.testplan_list_test_cases]
+approval_mode = "approve"
+
+[mcp_servers.ado.tools.wit_get_work_item]
+approval_mode = "approve"
+
+[mcp_servers.playwright]
+command = "npx"
+args = ["-y", "@playwright/mcp@latest", "--config", "C:\\Users\\bsaikiran\\AdoMCPtestcasesUpload\\.vscode\\playwright-mcp.config.json"]
+env = { APP_BASE_URL = "https://mac16.lower.trintech.com/", APP_USERNAME = "Skiran", APP_PASSWORD = "Kiran@949458474" }
+
+[mcp_servers.chrome-devtools]
+command = "npx"
+args = ["-y", "chrome-devtools-mcp@latest"]
+env = { CHROME_DEVTOOLS_MCP_NO_UPDATE_CHECKS = "1" }
+
+[notice.model_migrations]
+"gpt-5.3-codex" = "gpt-5.4"
+"gpt-5.4" = "gpt-5.5"
+
+
+
+[windows]
+sandbox = "unelevated"
+
+[tui.model_availability_nux]
+"gpt-5.5" = 4
